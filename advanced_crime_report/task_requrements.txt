@@ -2,7 +2,8 @@ Crime Analytics Dashboard – Requirements Plan
 
 1. Objective
 
-To develop an interactive Power BI dashboard that analyzes crime patterns, severity, locations, demographics, and case outcomes. The dashboard should allow users to explore data efficiently and support decision-making for crime prevention.
+To develop an interactive Power BI dashboard that analyzes crime patterns, severity, locations, demographics, and case outcomes. 
+The dashboard should allow users to explore data efficiently and support decision-making for crime prevention.
 
 
 
