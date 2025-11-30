@@ -1,1 +1,9 @@
+Crime Analytics Dashboard – Report Description
 
+This Power BI report provides an in-depth analysis of crime patterns across different cities and neighborhoods. It enables users to explore crime severity, demographic trends, geographical hotspots, and arrest performance using interactive visuals, slicers, drill-through pages, bookmarks, and navigation buttons.
+
+The dashboard includes an overview of key crime indicators such as total incidents, arrests made, domestic cases, and gang-related crimes. Trend analysis helps identify monthly crime fluctuations and severity levels over time. Geographical maps and neighborhood breakdowns reveal crime hotspots for better resource allocation.
+
+The demographics section analyzes victim/offender age groups, gender distribution, relationships, and weapon usage — offering valuable insight into behavioral patterns. Users can drill through from summary visuals to detailed case-level data, including Crime ID, location, status, and reporting behavior.
+
+Overall, this report serves as a decision-support tool for law enforcement agencies, policy makers, and community analysts to understand criminal activity trends and plan more effective crime prevention strategies.
