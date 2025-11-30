@@ -1,0 +1,87 @@
+Crime Analytics Dashboard – Requirements Plan
+
+1. Objective
+
+To develop an interactive Power BI dashboard that analyzes crime patterns, severity, locations, demographics, and case outcomes. The dashboard should allow users to explore data efficiently and support decision-making for crime prevention.
+
+
+
+2. Data Requirements
+
+| Category          | Fields Used                                                                                          |
+| ----------------- | ---------------------------------------------------------------------------------------------------- |
+| Crime Details     | Crime_ID, Crime_Type, Crime_Severity, Datetime                                                       |
+| Location Data     | Address, Neighborhood, City, State, Latitude, Longitude                                              |
+| Demographics      | Victim_Age, Victim_Gender, Ethnicity, Offender_Age, Offender_Gender                                  |
+| Case Information  | Reported_To_Police, Case_Status, Arrest_Made, Domestic_Case, Gang_Related, Relationship, Weapon_Used |
+| Time Intelligence | Year, Month, Hour (calculated columns)                                                               |
+
+
+
+3. Data Preparation
+
+✔ Cleaned missing values
+✔ Corrected data types
+✔ Created calculated columns:
+
+`Year`, `Month`, `YearMonth`, `Age_Group`, `Age_Difference`
+✔ Created What-if Parameter for **Month filtering**
+✔ Handled null demographics using default values
+✔ Extracted location columns & categorized them for Map visuals
+
+
+4. DAX Measures
+
+| Measure Name          | Purpose                                                |
+| --------------------- | ------------------------------------------------------ |
+| Total Crimes          | COUNT(Crime_ID)                                        |
+| Arrest Made Count     | CALCULATE(COUNT(Crime_ID), Crime[Arrest_Made]="Yes")   |
+| Domestic Cases        | CALCULATE(COUNT(Crime_ID), Crime[Domestic_Case]="Yes") |
+| Gang Related Cases    | CALCULATE(COUNT(Crime_ID), Crime[Gang_Related]="Yes")  |
+| Selected Month Crimes | Filter using Month parameter                           |
+| Dynamic Titles        | SELECTEDVALUE() used for drill-through                 |
+
+
+
+5. Visual Requirements
+
+| Page           | Visuals Used                                                      |
+| -------------- | ----------------------------------------------------------------- |
+| Overview       | KPI Cards, Donut Chart, Bar Chart, Slicer                         |
+| Trend Analysis | Line Chart, Stacked Column Chart, Month Parameter                 |
+| Location-Based | Map, Heatmap, Table by City/Neighborhood                          |
+| Demographics   | Age Distribution, Gender Charts, Weapon Usage, Relationship Types |
+| Case Details   | Drill-through table, cards, slicers for case-level data           |
+
+
+
+6. Interactivity Requirements
+
+✔ **Drill-through pages** (based on Crime_Type, Neighborhood, Severity)
+✔ **Bookmarks & Page Navigation**
+✔ **Sync Slicers across pages**
+✔ **Drill-down hierarchy on Date**
+✔ **Dynamic titles using DAX**
+✔ **Parameters for month filtering**
+
+
+
+7. Functional Goals
+
+* Identify high-risk locations & time periods
+* Track arrest efficiency and reporting behavior
+* Understand victim & offender demographics
+* Monitor crime severity trends
+* Enable case-level investigation via drill-through
+
+
+
+8. Output & Usage
+
+This dashboard is designed for:
+✔ Law enforcement strategy planning
+✔ Community safety analysis
+✔ Crime trend monitoring
+✔ Resource allocation
+✔ Policy recommendation reports
+
