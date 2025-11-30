@@ -1,0 +1,10 @@
+Project Overview – Car Sales Analytics Dashboard
+
+This Power BI dashboard provides a comprehensive analysis of car sales performance using real transactional data. 
+It covers sales trends, pricing comparison against MMR, vehicle conditions, seller performance, 
+customer preferences, and geographic insights. The dashboard is fully interactive, using slicers, drill-throughs, 
+bookmarks, DAX calculations, and data modeling techniques to enable dynamic business analysis.
+
+The solution helps stakeholders evaluate market behavior, identify profitable models, detect underpriced vehicles, 
+track seller contributions, and forecast sales using time intelligence. With professional design and advanced features, 
+this dashboard serves as a decision-support tool for dealerships, finance departments, and automotive analysts.
