@@ -1,0 +1,10 @@
+I developed a full interactive Power BI dashboard using the FreeCodeCamp Survey dataset to explore 
+how aspiring developers learn, what career paths they want, and what challenges they face. 
+The project included detailed data cleaning in Power Query, unpivoting multiple resource columns, 
+organizing fields into logical categories, and building calculated columns and advanced DAX measures. 
+I designed several dashboard pages with clear navigation, consistent layouts, custom labels, 
+and a drill-through profile page for deeper analysis. 
+The visuals highlight job interests, expected earnings, learning resources, programming experience, 
+demographics, motivations, and financial responsibilities. Completing this project strengthened my skills 
+in data modeling, DAX logic, Power BI UI/UX design, and turning complex data into meaningful insights 
+similar to real-world business intelligence work.
