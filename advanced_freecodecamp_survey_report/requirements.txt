@@ -1,0 +1,87 @@
+Project Requirements — Advanced FreeCodeCamp Survey Dashboard
+
+This project is an interactive analytics dashboard built to explore results from an advanced FreeCodeCamp survey. 
+It focuses on meaningful visualizations, clean data modeling, and insightful interpretation. 
+Below are the full requirements, tools, and setup instructions for running or modifying the project.
+
+
+
+1. Project Overview
+
+* Analyze a large FreeCodeCamp survey dataset
+* Build meaningful KPIs, charts, and advanced DAX calculations
+* Use page navigation and a clean UI/UX
+* Provide clear explanations of insights and trends
+* Focus on the **purpose** behind each visualization, not only visuals
+
+
+
+2. Technologies Used
+
+Power BI Desktop (latest version recommended)
+Power Query for data cleaning
+DAX for calculated columns & measures
+Data modeling (relationships, fact/dimension tables)
+Optional: Excel or CSV editor for preprocessing
+
+
+
+3. Dataset Requirements
+
+To run the dashboard, place the dataset in the project folder:
+
+`survey_data.csv` (or your dataset file)
+Required columns include (examples):
+Demographics (age, gender, country)
+Education & job data
+Income & financial status
+Learning preferences
+Career goals
+Programming experience
+
+
+
+4. Dashboard Features
+
+Multi-page navigation
+Clean visual hierarchy
+Age grouping and demographic insights
+Job interest breakdown
+Income distribution
+Learning timeline and bootcamp statistics
+Financial support and community involvement charts
+KPI cards & dynamic measures
+
+
+
+5. DAX Requirements
+
+The report uses advanced DAX including:
+
+Calculated tables
+Custom age groups
+Switch-based measures
+Conditional formatting measures
+KPI aggregations
+Normalized and percentage-based metrics
+
+
+
+6. How to Use
+
+1. Download the `.pbix` file
+2. Ensure the dataset file is in the correct folder
+3. Open the project in Power BI Desktop
+4. Refresh the data
+5. Explore dashboards using page navigation
+
+
+
+7. Future Improvements
+
+Add predictive analytics
+Build a web version with Power BI Service
+Add user-controlled slicers and deeper drilldowns
+Cleaned documentation for all DAX formulas
+
+
