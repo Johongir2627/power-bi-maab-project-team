@@ -1,0 +1,201 @@
+SupplierID,SupplierName,SupplierType,MaterialSupplied,PerformanceRating,Country,RegionID,ContractStart,ContractEnd,PaymentTerms,QualityScore,DeliveryReliability,RelationshipYears,PrimaryContact
+7001,SugarCane Inc,Raw Material,Sugar,95,USA,3001,2010-06-15,2025-06-15,Net 60,96.5,97.8,14,John Sweeterman
+7002,CornProducts Corp,Raw Material,High Fructose Corn Syrup,92,USA,3005,2012-03-22,2024-12-31,Net 45,94.2,95.6,12,Sarah Grainer
+7003,BottleTech,Packaging,Plastic Bottles (PET),88,USA,3001,2015-08-10,2026-08-10,Net 30,90.8,93.4,9,Michael Container
+7004,CanMaster,Packaging,Aluminum Cans,90,USA,3005,2008-11-05,2025-11-05,Net 60,93.7,96.1,16,Robert Aluminum
+7005,FlavorEssence,Raw Material,Natural Flavors,94,Germany,3010,2005-04-30,2030-04-30,Net 90,97.2,98.5,19,Fragrance Schmidt
+7006,AquaPure Solutions,Raw Material,Water Purification Systems,91,USA,3004,2018-02-14,2028-02-14,Net 30,94.8,96.3,6,David Filter
+7007,ColorNature,Raw Material,Caramel Color,93,France,3051,2011-09-18,2026-09-18,Net 60,95.6,96.9,13,Chroma Dubois
+7008,CitrusSource,Raw Material,Citrus Oils,96,Brazil,3181,2000-07-25,2025-07-25,Net 90,98.4,99.2,24,Orange Silva
+7009,BioSweet,Raw Material,Stevia Extract,89,China,3121,2019-05-30,2029-05-30,Net 45,92.1,94.7,5,Li Wei
+7010,BrewMasters,Raw Material,Coffee Beans,92,Colombia,3195,2014-12-10,2024-12-10,Net 60,94.5,96.8,10,Juan Coffee
+7011,TeaLeaf Origin,Raw Material,Tea Leaves,94,India,3141,2002-08-22,2027-08-22,Net 90,96.7,97.9,22,Chai Patel
+7012,FruitConcentrate,Raw Material,Fruit Concentrates,90,USA,3011,2016-04-05,2026-04-05,Net 30,93.3,95.4,8,Apple Johnson
+7013,DairyPure,Raw Material,Milk Proteins,88,New Zealand,3157,2017-11-20,2027-11-20,Net 45,91.5,93.8,7,Milk White
+7014,EnergyBlend,Raw Material,Taurine & Guarana,92,Germany,3010,2013-07-15,2025-07-15,Net 60,94.9,96.5,11,Energia Muller
+7015,SaltMasters,Raw Material,Mineral Salts,87,Chile,3193,2020-03-18,2030-03-18,Net 30,90.2,92.7,4,Sal Delmar
+7016,AcidBalance,Raw Material,Citric Acid,91,China,3122,2015-09-12,2025-09-12,Net 45,94.1,95.9,9,Acid Wang
+7017,PreservaTech,Raw Material,Preservatives,85,USA,3003,2019-08-30,2029-08-30,Net 30,89.6,91.4,5,Preserve Smith
+7018,VitaminBoost,Raw Material,Vitamins & Minerals,93,Switzerland,3069,2012-05-22,2027-05-22,Net 60,95.8,97.2,12,Vita Swiss
+7019,CarbonPure,Raw Material,Carbon Dioxide,89,USA,3002,2018-11-08,2028-11-08,Net 30,92.3,94.5,6,Gas Richardson
+7020,EssenceWorld,Raw Material,Artificial Flavors,86,USA,3003,2021-02-14,2031-02-14,Net 30,90.1,92.0,3,Flavor Jones
+7021,PETGlobal,Packaging,PET Resin,94,USA,3001,2007-04-10,2027-04-10,Net 60,96.2,97.5,17,Plastic Masters
+7022,AluSource,Packaging,Aluminum Sheets,92,Canada,3006,2010-11-30,2030-11-30,Net 60,94.8,96.3,14,Metal Canuck
+7023,GlassCraft,Packaging,Glass Bottles,90,Germany,3010,2004-03-25,2024-03-25,Net 90,93.5,95.8,20,Glass Schmidt
+7024,CapSolutions,Packaging,Bottle Caps & Closures,93,USA,3005,2013-06-18,2028-06-18,Net 45,95.7,97.1,11,Cap Turner
+7025,LabelArt,Packaging,Labels & Sleeves,91,Italy,3061,2015-09-05,2025-09-05,Net 60,94.3,96.0,9,Label Rossi
+7026,CardboardKing,Packaging,Cartons & Boxes,88,USA,3016,2018-04-22,2028-04-22,Net 30,91.8,93.9,6,Box Brown
+7027,ShrinkWrap Pro,Packaging,Shrink Wrap Film,87,China,3123,2019-07-14,2029-07-14,Net 45,90.5,92.8,5,Film Zhang
+7028,PalletMaster,Packaging,Wooden Pallets,90,USA,3004,2014-12-08,2024-12-08,Net 30,93.2,95.3,10,Wood Wilson
+7029,InkJet Pro,Packaging,Ink for Coding,89,Japan,3131,2016-03-30,2026-03-30,Net 60,92.9,94.8,8,Ink Sato
+7030,AdhesiveTech,Packaging,Adhesives & Glues,86,USA,3007,2020-09-18,2030-09-18,Net 30,90.3,92.2,4,Glue Bond
+7031,CanSeamTech,Packaging,Can Seaming Equipment,94,Germany,3046,2009-02-28,2029-02-28,Net 90,96.4,97.8,15,Machine Bauer
+7032,StretchFilm Co,Packaging,Stretch Wrap,88,Mexico,3008,2017-11-12,2027-11-12,Net 45,91.7,93.8,7,Wrap Garcia
+7033,BeverageTubes,Packaging,Straws & Sippers,85,Thailand,3167,2021-05-20,2031-05-20,Net 30,89.8,91.6,3,Tube Somsak
+7034,TetraPak Pro,Packaging,Tetra Pak Cartons,95,Sweden,3075,2006-08-15,2026-08-15,Net 90,97.1,98.3,18,Pak Swenson
+7035,CanLiners Co,Packaging,Can Liners,87,USA,3009,2019-10-05,2029-10-05,Net 30,90.6,92.5,5,Liner Parker
+7036,CrateTech,Packaging,Plastic Crates,91,USA,3001,2015-01-20,2025-01-20,Net 45,94.0,95.8,9,Crate Miller
+7037,FoilPrint,Packaging,Foil Labels,92,UK,3009,2012-07-22,2027-07-22,Net 60,94.7,96.4,12,Foil Williams
+7038,BottleNeck,Packaging,Bottle Neck Rings,89,USA,3005,2018-08-14,2028-08-14,Net 30,92.5,94.6,6,Neck Johnson
+7039,CanCoatings,Packaging,Can Interior Coatings,93,Netherlands,3066,2011-04-18,2026-04-18,Net 60,95.9,97.3,13,Coating Van Dijk
+7040,TamperSeal,Packaging,Tamper-Evident Seals,90,USA,3004,2016-11-30,2026-11-30,Net 30,93.4,95.5,8,Seal Anderson
+7041,FillMaster,Equipment,Filling Machines,96,Germany,3010,2003-05-12,2028-05-12,Net 90,98.2,99.0,21,Fill Muller
+7042,MixerPro,Equipment,Mixing & Blending Systems,94,USA,3003,2008-09-25,2028-09-25,Net 60,96.7,97.9,16,Mix Davis
+7043,CapperTech,Equipment,Capping Machines,92,Italy,3062,2010-12-08,2030-12-08,Net 60,94.9,96.5,14,Cap Rossi
+7044,LabelerPro,Equipment,Labeling Machines,93,USA,3001,2013-03-14,2028-03-14,Net 45,95.8,97.2,11,Label Taylor
+7045,PalletizerPlus,Equipment,Palletizing Robots,95,Japan,3131,2007-07-20,2027-07-20,Net 90,97.3,98.4,17,Robot Tanaka
+7046,ConveyorSystems,Equipment,Conveyor Belts,89,USA,3005,2018-05-18,2028-05-18,Net 30,92.4,94.5,6,Belt Wilson
+7047,WasherTech,Equipment,Bottle Washers,91,Germany,3047,2015-10-12,2025-10-12,Net 60,94.2,96.1,9,Wash Schmidt
+7048,BlowMold Pro,Equipment,Blow Molding Machines,94,USA,3004,2012-02-28,2027-02-28,Net 60,96.1,97.6,12,Mold Johnson
+7049,CoderMaster,Equipment,Coding & Dating Machines,90,UK,3009,2016-08-22,2026-08-22,Net 45,93.5,95.6,8,Code Williams
+7050,QualityEye,Equipment,Vision Inspection Systems,97,Japan,3131,2005-11-15,2030-11-15,Net 90,98.6,99.3,19,Vision Yamada
+7051,ChillerPro,Equipment,Chilling Systems,88,USA,3002,2019-04-10,2029-04-10,Net 30,91.6,93.7,5,Chill Brown
+7052,DeionizerPlus,Equipment,Water Deionization Systems,93,USA,3001,2014-07-30,2024-07-30,Net 45,95.7,97.1,10,Water Smith
+7053,PumpMaster,Equipment,Pumps & Valves,90,Germany,3048,2017-12-05,2027-12-05,Net 60,93.4,95.5,7,Pump Weber
+7054,HeatExchanger,Equipment,Heat Exchangers,92,USA,3003,2015-09-18,2025-09-18,Net 45,94.8,96.3,9,Heat Thompson
+7055,ControlSystems,Equipment,PLC Control Systems,95,USA,3005,2011-06-22,2026-06-22,Net 60,96.9,98.0,13,Control Davis
+7056,BearingsCo,Equipment,Bearings & Motors,87,China,3124,2020-03-14,2030-03-14,Net 30,90.7,92.6,4,Bearing Chen
+7057,SensorTech,Equipment,Sensors & Gauges,94,Germany,3046,2013-10-08,2028-10-08,Net 60,96.0,97.5,11,Sensor Bauer
+7058,CompressorPro,Equipment,Air Compressors,89,USA,3007,2018-07-25,2028-07-25,Net 30,92.3,94.4,6,Compress Miller
+7059,ForkliftWorld,Equipment,Forklifts & MHE,91,USA,3001,2016-02-14,2026-02-14,Net 45,94.1,95.9,8,Lift Johnson
+7060,RebuilderPro,Equipment,Equipment Rebuilding,92,USA,3005,2014-05-30,2024-05-30,Net 30,94.7,96.4,10,Rebuild Davis
+7061,LogisticsPro,Logistics,Transportation Services,93,USA,3001,2010-08-18,2025-08-18,Net 45,95.9,97.3,14,Truck Wilson
+7062,ColdChain,Logistics,Refrigerated Transport,94,USA,3004,2012-11-05,2027-11-05,Net 60,96.2,97.6,12,Cold Parker
+7063,WarehousePlus,Logistics,Warehousing Services,90,USA,3005,2017-04-22,2027-04-22,Net 30,93.3,95.4,7,Store Johnson
+7064,FreightMaster,Logistics,Freight Forwarding,92,Netherlands,3066,2015-09-14,2025-09-14,Net 60,94.8,96.3,9,Freight Van Der Berg
+7065,CustomsPro,Logistics,Customs Clearance,91,Singapore,3176,2018-12-10,2028-12-10,Net 45,94.0,95.8,6,Customs Lee
+7066,PortServices,Logistics,Port Handling,89,Brazil,3181,2019-07-30,2029-07-30,Net 30,92.2,94.3,5,Port Silva
+7067,RailTransit,Logistics,Rail Transportation,93,USA,3005,2013-03-18,2028-03-18,Net 60,95.8,97.2,11,Rail Thompson
+7068,AirCargo Pro,Logistics,Air Freight,95,USA,3003,2009-05-12,2029-05-12,Net 60,97.1,98.3,15,Air Davis
+7069,OceanLines,Logistics,Ocean Shipping,92,South Korea,3136,2011-08-25,2026-08-25,Net 90,94.9,96.5,13,Ocean Park
+7070,LastMile,Logistics,Last Mile Delivery,88,USA,3001,2020-02-14,2030-02-14,Net 30,91.5,93.6,4,Mile Brown
+7071,ChemClean,Chemicals,Cleaning Chemicals,90,USA,3002,2016-06-18,2026-06-18,Net 30,93.4,95.5,8,Clean Miller
+7072,WaterTreat,Chemicals,Water Treatment Chemicals,92,USA,3001,2014-10-12,2024-10-12,Net 45,94.7,96.4,10,Treat Wilson
+7073,LubricantPro,Chemicals,Lubricants & Greases,87,USA,3005,2019-09-05,2029-09-05,Net 30,90.6,92.5,5,Lube Johnson
+7074,SanitizerPlus,Chemicals,Sanitizers & Disinfectants,94,USA,3004,2012-04-20,2027-04-20,Net 45,96.0,97.5,12,Sanitize Davis
+7075,PestControl,Chemicals,Pest Control Products,85,USA,3003,2021-03-15,2031-03-15,Net 30,89.9,91.7,3,Pest Smith
+7076,EnergyPower,Energy,Electricity Supply,92,USA,3001,2010-11-30,2030-11-30,Net 30,94.8,96.3,14,Power Wilson
+7077,NaturalGas Co,Energy,Natural Gas Supply,91,USA,3002,2015-08-22,2025-08-22,Net 30,94.0,95.8,9,Gas Thompson
+7078,RenewableEnergy,Energy,Renewable Energy,96,Germany,3010,2008-03-14,2028-03-14,Net 60,97.5,98.7,16,Green Schmidt
+7079,WaterSource,Energy,Water Rights & Supply,88,USA,3004,2018-06-18,2028-06-18,Net 30,91.7,93.8,6,Water Jones
+7080,SolarPower,Energy,Solar Panel Systems,93,Spain,3056,2013-12-05,2028-12-05,Net 60,95.8,97.2,11,Solar Garcia
+7081,VanillaWorld,Raw Material,Vanilla Extract,97,Madagascar,3264,1998-07-20,2028-07-20,Net 90,98.8,99.5,26,Vanille Rakoto
+7082,CocoaSource,Raw Material,Cocoa Products,94,Ivory Coast,3110,2004-09-12,2029-09-12,Net 90,96.9,98.0,20,Cocoa Diarra
+7083,GingerRoot,Raw Material,Ginger Extract,90,India,3143,2015-11-18,2025-11-18,Net 60,93.3,95.4,9,Ginger Singh
+7084,PeppermintPro,Raw Material,Peppermint Oil,93,USA,3008,2012-02-22,2027-02-22,Net 45,95.7,97.1,12,Mint Johnson
+7085,LemonZest,Raw Material,Lemon Oil,95,Italy,3061,2006-05-30,2026-05-30,Net 90,97.2,98.4,18,Lemon Rossi
+7086,LimeEssence,Raw Material,Lime Oil,91,Mexico,3036,2014-08-14,2024-08-14,Net 60,94.1,95.9,10,Lime Hernandez
+7087,AppleMagic,Raw Material,Apple Concentrate,92,USA,3009,2013-07-08,2028-07-08,Net 45,94.9,96.5,11,Apple Smith
+7088,PearPerfection,Raw Material,Pear Essence,89,Argentina,3190,2017-10-25,2027-10-25,Net 60,92.5,94.6,7,Pear Garcia
+7089,StrawberryFields,Raw Material,Strawberry Flavor,94,USA,3001,2011-04-18,2026-04-18,Net 45,96.0,97.5,13,Straw Berry
+7090,RaspberryDream,Raw Material,Raspberry Essence,90,Poland,3078,2016-09-12,2026-09-12,Net 60,93.4,95.5,8,Raspberry Kowalski
+7091,BlueberryHills,Raw Material,Blueberry Extract,91,Canada,3006,2015-03-22,2025-03-22,Net 45,94.2,96.1,9,Blue Berry
+7092,CranberryBog,Raw Material,Cranberry Juice Concentrate,93,USA,3018,2012-11-08,2027-11-08,Net 45,95.8,97.2,12,Cran Smith
+7093,MangoTropical,Raw Material,Mango Puree,94,Philippines,3164,2009-06-15,2029-06-15,Net 90,96.2,97.6,15,Mango Santos
+7094,PineappleParadise,Raw Material,Pineapple Concentrate,92,Thailand,3167,2011-09-30,2026-09-30,Net 60,94.9,96.5,13,Pineapple Somsak
+7095,PassionFruit,Raw Material,Passion Fruit Essence,90,Australia,3151,2018-04-05,2028-04-05,Net 45,93.3,95.4,6,Passion Jones
+7096,GuavaGroves,Raw Material,Guava Pulp,91,Brazil,3182,2014-12-12,2024-12-12,Net 60,94.1,95.9,10,Guava Silva
+7097,PapayaPower,Raw Material,Papaya Concentrate,89,Colombia,3196,2019-08-18,2029-08-18,Net 45,92.2,94.3,5,Papaya Gomez
+7098,CoconutCream,Raw Material,Coconut Water,94,Indonesia,3160,2010-03-25,2030-03-25,Net 90,96.0,97.5,14,Coconut Budi
+7099,WatermelonWave,Raw Material,Watermelon Juice,88,USA,3004,2017-07-14,2027-07-14,Net 30,91.6,93.7,7,Melon Wilson
+7100,KiwiVine,Raw Material,Kiwi Essence,90,New Zealand,3157,2015-10-08,2025-10-08,Net 45,93.3,95.4,9,Kiwi Brown
+7101,PlasticResin Europe,Packaging,Plastic Resin (EU Grade),93,Germany,3010,2011-05-18,2026-05-18,Net 60,95.8,97.2,13,Resin Muller
+7102,CanAsia,Packaging,Aluminum Cans (Asia),94,China,3121,2008-09-12,2028-09-12,Net 90,96.2,97.6,16,Can Li
+7103,GlassMiddleEast,Packaging,Glass Bottles (ME),89,UAE,3094,2016-04-22,2026-04-22,Net 60,92.4,94.5,8,Glass Al-Maktoum
+7104,LabelsAsia,Packaging,Labels (Asian Markets),92,Thailand,3167,2014-07-30,2024-07-30,Net 45,94.7,96.4,10,Label Somsri
+7105,ClosuresSA,Packaging,Bottle Closures (S.America),90,Brazil,3181,2013-10-15,2028-10-15,Net 60,93.5,95.6,11,Closure Silva
+7106,BoxesEurope,Packaging,Folding Cartons (Europe),94,France,3051,2009-12-08,2029-12-08,Net 90,96.1,97.6,15,Box Dubois
+7107,ShrinkFilm Asia,Packaging,Shrink Film (Asia),91,Malaysia,3173,2015-02-14,2025-02-14,Net 45,94.3,96.0,9,Film Abdullah
+7108,PalletsEurope,Packaging,Euro Pallets,93,Poland,3078,2012-08-18,2027-08-18,Net 60,95.7,97.1,12,Pallet Nowak
+7109,InkAsia,Packaging,Food Grade Ink (Asia),90,Japan,3131,2016-11-22,2026-11-22,Net 60,93.4,95.5,8,Ink Tanaka
+7110,AdhesiveEurope,Packaging,Adhesives (EU Compliant),95,Germany,3010,2007-04-15,2027-04-15,Net 90,97.3,98.4,17,Adhesive Schmidt
+7111,FillingAsia,Equipment,Filling Machines (Asia),94,Japan,3131,2010-01-20,2030-01-20,Net 90,96.2,97.6,14,Fill Sato
+7112,MixerEurope,Equipment,Mixers (EU Standards),96,Germany,3047,2005-06-18,2025-06-18,Net 90,98.1,98.9,19,Mix Weber
+7113,CapperAsia,Equipment,Cappers (Asian Market),92,China,3122,2013-09-05,2028-09-05,Net 60,94.8,96.3,11,Cap Zhang
+7114,LabelerEurope,Equipment,Labelers (CE Certified),94,Italy,3061,2011-11-12,2026-11-12,Net 60,96.0,97.5,13,Label Conti
+7115,PalletizerAsia,Equipment,Palletizers (Asia),93,South Korea,3136,2012-04-30,2027-04-30,Net 60,95.8,97.2,12,Pallet Kim
+7116,ConveyorGlobal,Equipment,Conveyors (Global),91,USA,3001,2015-07-18,2025-07-18,Net 45,94.2,96.1,9,Conveyor Jones
+7117,WashAsia,Equipment,Washing Systems (Asia),90,Japan,3131,2017-12-08,2027-12-08,Net 60,93.3,95.4,7,Wash Tanaka
+7118,BlowMoldEurope,Equipment,Blow Molders (EU),95,Germany,3048,2008-03-22,2028-03-22,Net 90,97.2,98.4,16,Mold Schmidt
+7119,CoderAsia,Equipment,Coders (Asian Markets),89,China,3123,2019-05-14,2029-05-14,Net 45,92.5,94.6,5,Code Wang
+7120,VisionGlobal,Equipment,Vision Systems (Global),97,Japan,3131,2004-08-30,2029-08-30,Net 90,98.7,99.4,20,Vision Suzuki
+7121,TruckingAsia,Logistics,Trucking (Asian Routes),92,Thailand,3167,2014-06-18,2024-06-18,Net 45,94.7,96.4,10,Truck Somsak
+7122,ColdChainAsia,Logistics,Cold Chain (Asia),94,Singapore,3176,2011-09-25,2026-09-25,Net 60,96.0,97.5,13,Cold Lee
+7123,WarehouseAsia,Logistics,Warehousing (Asia),91,Hong Kong,3179,2016-02-14,2026-02-14,Net 45,94.1,95.9,8,Warehouse Chan
+7124,FreightAsia,Logistics,Freight (Asian Ports),93,South Korea,3137,2013-11-08,2028-11-08,Net 60,95.8,97.2,11,Freight Park
+7125,CustomsAsia,Logistics,Customs (Asian Countries),90,Singapore,3176,2018-03-22,2028-03-22,Net 45,93.4,95.5,6,Customs Tan
+7126,PortAsia,Logistics,Port Services (Asia),92,China,3121,2015-08-30,2025-08-30,Net 60,94.8,96.3,9,Port Li
+7127,RailAsia,Logistics,Rail (Asian Networks),88,India,3142,2019-10-12,2029-10-12,Net 45,91.7,93.8,5,Rail Singh
+7128,AirAsia,Logistics,Air Cargo (Asia),95,Singapore,3176,2009-04-18,2029-04-18,Net 60,97.1,98.3,15,Air Lim
+7129,OceanAsia,Logistics,Ocean (Asian Routes),94,Japan,3131,2010-07-22,2030-07-22,Net 90,96.3,97.7,14,Ocean Tanaka
+7130,LastMileAsia,Logistics,Last Mile (Asian Cities),89,Philippines,3164,2017-05-30,2027-05-30,Net 30,92.4,94.5,7,Mile Santos
+7131,CleanAsia,Chemicals,Cleaning (Asian Standards),90,Japan,3131,2016-08-14,2026-08-14,Net 45,93.4,95.5,8,Clean Tanaka
+7132,WaterAsia,Chemicals,Water Treatment (Asia),92,Singapore,3176,2014-10-08,2024-10-08,Net 60,94.7,96.4,10,Water Lee
+7133,LubeAsia,Chemicals,Lubricants (Asia),87,China,3124,2020-01-15,2030-01-15,Net 30,90.7,92.6,4,Lube Chen
+7134,SanitizeAsia,Chemicals,Sanitizers (Asia),93,South Korea,3136,2013-03-18,2028-03-18,Net 60,95.8,97.2,11,Sanitize Kim
+7135,PestAsia,Chemicals,Pest Control (Asia),86,Malaysia,3173,2021-06-22,2031-06-22,Net 30,90.1,92.0,3,Pest Abdullah
+7136,PowerAsia,Energy,Electricity (Asian Grids),91,China,3121,2015-11-30,2025-11-30,Net 45,94.0,95.8,9,Power Wang
+7137,GasAsia,Energy,Natural Gas (Asia),90,Japan,3131,2017-09-14,2027-09-14,Net 60,93.3,95.4,7,Gas Tanaka
+7138,RenewableAsia,Energy,Renewable (Asia),95,China,3121,2012-02-28,2027-02-28,Net 60,96.9,98.0,12,Green Li
+7139,WaterRightsAsia,Energy,Water Rights (Asia),88,India,3141,2018-07-18,2028-07-18,Net 45,91.7,93.8,6,Water Singh
+7140,SolarAsia,Energy,Solar (Asia),94,Japan,3131,2011-05-12,2026-05-12,Net 90,96.1,97.6,13,Solar Tanaka
+7141,VanillaAsia,Raw Material,Vanilla (Asian Market),96,Indonesia,3160,2006-10-08,2026-10-08,Net 90,97.5,98.7,18,Vanilla Wijaya
+7142,CocoaAsia,Raw Material,Cocoa (Asian Sourcing),93,Malaysia,3173,2013-08-22,2028-08-22,Net 60,95.8,97.2,11,Cocoa Abdullah
+7143,GingerAsia,Raw Material,Ginger (Asian Quality),94,China,3125,2009-12-14,2029-12-14,Net 90,96.2,97.6,15,Ginger Zhang
+7144,PeppermintAsia,Raw Material,Peppermint (Asia),90,India,3143,2016-05-18,2026-05-18,Net 60,93.4,95.5,8,Mint Singh
+7145,LemonAsia,Raw Material,Lemon (Asian Sourcing),92,Vietnam,3170,2014-09-12,2024-09-12,Net 45,94.7,96.4,10,Lemon Nguyen
+7146,LimeAsia,Raw Material,Lime (Asian Market),91,Thailand,3167,2015-11-08,2025-11-08,Net 45,94.1,95.9,9,Lime Somsak
+7147,AppleAsia,Raw Material,Apple (Asian Varieties),93,China,3126,2012-04-14,2027-04-14,Net 60,95.7,97.1,12,Apple Wang
+7148,PearAsia,Raw Material,Pear (Asian Types),89,South Korea,3136,2018-08-22,2028-08-22,Net 45,92.5,94.6,6,Pear Kim
+7149,StrawberryAsia,Raw Material,Strawberry (Asia),92,Japan,3131,2013-07-18,2028-07-18,Net 60,94.8,96.3,11,Strawberry Tanaka
+7150,RaspberryAsia,Raw Material,Raspberry (Asian),90,China,3127,2017-03-14,2027-03-14,Net 45,93.3,95.4,7,Raspberry Li
+7151,BlueberryAsia,Raw Material,Blueberry (Asia),91,Japan,3131,2015-10-08,2025-10-08,Net 60,94.2,96.1,9,Blueberry Sato
+7152,CranberryAsia,Raw Material,Cranberry (Import),94,USA,3018,2011-06-22,2026-06-22,Net 90,96.0,97.5,15,Cran Smith
+7153,MangoAsia,Raw Material,Mango (Asian Varieties),95,Thailand,3167,2008-09-30,2028-09-30,Net 90,97.2,98.4,16,Mango Somsri
+7154,PineappleAsia,Raw Material,Pineapple (Asia),94,Philippines,3164,2010-03-18,2030-03-18,Net 90,96.1,97.6,14,Pineapple Reyes
+7155,PassionAsia,Raw Material,Passion Fruit (Asia),92,Vietnam,3170,2014-12-05,2024-12-05,Net 60,94.9,96.5,10,Passion Tran
+7156,GuavaAsia,Raw Material,Guava (Asian),90,Malaysia,3173,2017-07-22,2027-07-22,Net 45,93.3,95.4,7,Guava Abdullah
+7157,PapayaAsia,Raw Material,Papaya (Asia),91,Thailand,3167,2015-09-14,2025-09-14,Net 45,94.1,95.9,9,Papaya Somsak
+7158,CoconutAsia,Raw Material,Coconut (Asia),96,Philippines,3164,2007-05-30,2027-05-30,Net 90,97.5,98.7,17,Coconut Santos
+7159,WatermelonAsia,Raw Material,Watermelon (Asia),89,China,3128,2019-04-18,2029-04-18,Net 45,92.4,94.5,5,Melon Wang
+7160,KiwiAsia,Raw Material,Kiwi (Asian Import),93,New Zealand,3157,2012-11-08,2027-11-08,Net 90,95.8,97.2,15,Kiwi Brown
+7161,SugarEurope,Raw Material,Sugar (EU Beet Sugar),94,France,3051,2009-04-15,2029-04-15,Net 90,96.2,97.6,15,Sugar Dubois
+7162,CornEurope,Raw Material,Corn Syrup (EU),91,Germany,3010,2015-08-22,2025-08-22,Net 60,94.1,95.9,9,Corn Muller
+7163,FlavorsEurope,Raw Material,Flavors (EU Compliant),96,Italy,3061,2005-07-18,2025-07-18,Net 90,97.7,98.8,19,Flavor Rossi
+7164,WaterEurope,Raw Material,Water (European Springs),95,Switzerland,3069,2007-03-22,2027-03-22,Net 90,97.3,98.4,17,Water Swiss
+7165,CoffeeEurope,Raw Material,Coffee (European Roast),93,Italy,3061,2011-10-14,2026-10-14,Net 90,95.9,97.4,13,Coffee Esposito
+7166,TeaEurope,Raw Material,Tea (European Blend),94,UK,3009,2008-05-30,2028-05-30,Net 90,96.1,97.6,16,Tea Williams
+7167,FruitEurope,Raw Material,Fruit Concentrates (EU),92,Spain,3056,2013-09-12,2028-09-12,Net 60,94.9,96.5,11,Fruit Garcia
+7168,DairyEurope,Raw Material,Dairy (EU Standards),95,Netherlands,3066,2010-02-18,2030-02-18,Net 90,97.1,98.3,14,Dairy Van Der Berg
+7169,EnergyEurope,Raw Material,Energy Ingredients (EU),93,Germany,3010,2012-07-25,2027-07-25,Net 60,95.8,97.2,12,Energy Schmidt
+7170,SaltEurope,Raw Material,Salt (European),90,Portugal,3085,2016-04-14,2026-04-14,Net 45,93.3,95.4,8,Salt Silva
+7171,AcidEurope,Raw Material,Citric Acid (EU),94,Germany,3010,2011-11-08,2026-11-08,Net 60,96.0,97.5,13,Acid Muller
+7172,PreservativeEurope,Raw Material,Preservatives (EU),87,Belgium,3068,2019-03-22,2029-03-22,Net 30,90.6,92.5,5,Preserve Van Damme
+7173,VitaminEurope,Raw Material,Vitamins (EU Approved),96,Switzerland,3069,2006-09-15,2026-09-15,Net 90,97.5,98.7,18,Vita Swiss
+7174,CarbonEurope,Raw Material,Carbon Dioxide (EU),92,UK,3009,2014-06-18,2024-06-18,Net 60,94.7,96.4,10,Carbon Williams
+7175,EssenceEurope,Raw Material,Artificial Flavors (EU),88,France,3051,2018-01-30,2028-01-30,Net 45,91.7,93.8,6,Essence Dubois
+7176,PETEurope,Packaging,PET Resin (EU Grade),95,Germany,3010,2008-12-12,2028-12-12,Net 90,97.2,98.4,16,PET Schmidt
+7177,AluminumEurope,Packaging,Aluminum (EU Sourced),93,France,3051,2011-05-18,2026-05-18,Net 60,95.8,97.2,13,Aluminum Dubois
+7178,GlassEurope,Packaging,Glass (EU Manufactured),96,Germany,3010,2004-10-22,2024-10-22,Net 90,97.6,98.8,20,Glass Weber
+7179,CapsEurope,Packaging,Caps (EU Production),94,Italy,3061,2009-07-30,2029-07-30,Net 90,96.1,97.6,15,Cap Conti
+7180,LabelsEurope,Packaging,Labels (EU Printing),95,Germany,3010,2007-04-18,2027-04-18,Net 90,97.3,98.4,17,Label Schmidt
+7181,CartonsEurope,Packaging,Cartons (EU Recycled),94,Sweden,3075,2010-09-14,2030-09-14,Net 90,96.2,97.6,14,Carton Swenson
+7182,ShrinkEurope,Packaging,Shrink Film (EU),91,Germany,3010,2015-02-22,2025-02-22,Net 60,94.3,96.0,9,Film Muller
+7183,PalletsEurope2,Packaging,Pallets (EU Standard),93,Poland,3078,2012-11-08,2027-11-08,Net 60,95.7,97.1,12,Pallet Nowak
+7184,InkEurope,Packaging,Ink (EU Food Safe),94,Germany,3010,2011-08-14,2026-08-14,Net 60,96.0,97.5,13,Ink Schmidt
+7185,AdhesiveEurope2,Packaging,Adhesives (EU),96,Germany,3010,2006-03-30,2026-03-30,Net 90,97.5,98.7,18,Adhesive Weber
+7186,CanCoatEurope,Packaging,Can Coatings (EU),95,Netherlands,3066,2009-05-22,2029-05-22,Net 90,97.2,98.4,15,Coating Van Der Berg
+7187,SealsEurope,Packaging,Tamper Seals (EU),93,France,3051,2013-10-18,2028-10-18,Net 60,95.8,97.2,11,Seal Dubois
+7188,FillingEurope,Equipment,Filling Machines (EU),97,Germany,3010,2003-08-15,2028-08-15,Net 90,98.2,99.0,21,Fill Weber
+7189,MixerEurope2,Equipment,Mixers (German Engineering),98,Germany,3010,2001-06-22,2026-06-22,Net 90,98.9,99.6,23,Mix Schmidt
+7190,CapperEurope,Equipment,Cappers (EU Made),96,Italy,3061,2007-11-30,2027-11-30,Net 90,97.5,98.7,17,Cap Esposito
+7191,LabelerEurope2,Equipment,Labelers (EU Certified),95,Germany,3010,2009-09-14,2029-09-14,Net 90,97.3,98.4,15,Label Muller
+7192,PalletizerEurope,Equipment,Palletizers (EU),96,Germany,3010,2005-04-18,2025-04-18,Net 90,97.6,98.8,19,Pallet Weber
+7193,ConveyorEurope,Equipment,Conveyors (EU Safety),94,Germany,3010,2010-12-08,2030-12-08,Net 90,96.1,97.6,14,Conveyor Schmidt
+7194,WashEurope,Equipment,Washing Systems (EU),95,Germany,3010,2008-07-22,2028-07-22,Net 90,97.2,98.4,16,Wash Muller
+7195,BlowMoldEurope2,Equipment,Blow Molders (German),97,Germany,3010,2004-05-14,2024-05-14,Net 90,98.1,98.9,20,Mold Weber
+7196,CoderEurope,Equipment,Coders (EU Manufactured),94,UK,3009,2011-03-18,2026-03-18,Net 60,96.0,97.5,13,Code Williams
+7197,VisionEurope,Equipment,Vision Systems (EU),98,Germany,3010,2002-09-30,2027-09-30,Net 90,98.8,99.5,22,Vision Schmidt
+7198,TruckingEurope,Logistics,Trucking (European Network),95,Germany,3010,2007-02-14,2027-02-14,Net 90,97.3,98.4,17,Truck Muller
+7199,ColdChainEurope,Logistics,Cold Chain (Europe),96,France,3051,2005-10-18,2025-10-18,Net 90,97.6,98.8,19,Cold Dubois
+7200,WarehouseEurope,Logistics,Warehousing (EU),94,Netherlands,3066,2009-08-22,2029-08-22,Net 90,96.2,97.6,15,Warehouse Van Dijk
