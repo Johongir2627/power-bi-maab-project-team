@@ -1,0 +1,41 @@
+EmployeeID,FirstName,LastName,Email,Phone,DepartmentID,JobRoleID,ManagerID,HireDate,TerminationDate,EmploymentType,Status,Location,EmployeeLevel,TenureYears,Gender,Ethnicity,BirthDate,EducationLevel
+1301,John,Smith,john.smith@cocacola.com,+1-404-555-0101,1101,1201,NULL,2010-06-15,NULL,Full-Time,Active,Atlanta,Executive,13.5,Male,Caucasian,1975-03-22,MBA
+1302,Sarah,Johnson,sarah.johnson@cocacola.com,+1-404-555-0102,1101,1204,1301,2015-03-22,NULL,Full-Time,Active,Atlanta,Senior Management,8.7,Female,African American,1982-07-14,MBA
+1303,Michael,Brown,michael.brown@cocacola.com,+1-404-555-0103,1101,1209,1302,2020-08-10,NULL,Full-Time,Active,Atlanta,Professional,3.4,Male,Caucasian,1992-11-05,Bachelor's
+1304,Emily,Davis,emily.davis@cocacola.com,+1-214-555-0104,1102,1218,NULL,2012-11-05,NULL,Full-Time,Active,Dallas,Senior Management,11.2,Female,Asian,1980-09-18,MBA
+1305,David,Wilson,david.wilson@cocacola.com,+1-214-555-0105,1102,1222,1304,2018-09-14,NULL,Full-Time,Active,Dallas,Professional,5.3,Male,Caucasian,1990-01-30,Bachelor's
+1306,Jennifer,Miller,jennifer.miller@cocacola.com,+1-404-555-0106,1103,1229,NULL,2019-04-30,NULL,Full-Time,Active,Atlanta,Senior Professional,4.7,Female,Asian,1985-06-12,PhD
+1307,Robert,Taylor,robert.taylor@cocacola.com,+1-404-555-0107,1104,1236,NULL,2017-07-18,NULL,Full-Time,Active,Atlanta,Management,6.5,Male,Caucasian,1978-12-03,MBA
+1308,Lisa,Anderson,lisa.anderson@cocacola.com,+1-404-555-0108,1105,1244,NULL,2016-02-28,NULL,Full-Time,Active,Atlanta,Professional,7.9,Female,African American,1983-04-25,Master's
+1309,Thomas,Thomas,thomas.thomas@cocacola.com,+1-404-555-0109,1106,1254,NULL,2014-10-12,NULL,Full-Time,Active,Atlanta,Professional,9.3,Male,Caucasian,1986-08-07,Master's
+1310,Karen,Jackson,karen.jackson@cocacola.com,+1-404-555-0110,1101,1209,1302,2021-01-20,NULL,Full-Time,Active,Atlanta,Professional,2.9,Female,Caucasian,1993-02-14,Bachelor's
+1311,Christopher,White,christopher.white@cocacola.com,+1-212-555-0111,1107,1205,1301,2018-11-15,NULL,Full-Time,Active,New York,Senior Management,5.1,Male,Asian,1984-10-28,MBA
+1312,Jessica,Harris,jessica.harris@cocacola.com,+1-312-555-0112,1108,1211,1301,2019-06-22,NULL,Full-Time,Active,Chicago,Management,4.5,Female,Caucasian,1988-03-17,Master's
+1313,Daniel,Martin,daniel.martin@cocacola.com,+1-213-555-0113,1110,1220,1304,2016-09-08,NULL,Full-Time,Active,Los Angeles,Senior Management,7.3,Male,Hispanic,1979-05-11,MBA
+1314,Michelle,Thompson,michelle.thompson@cocacola.com,+1-305-555-0114,1113,1232,1306,2020-03-25,NULL,Full-Time,Active,Miami,Professional,3.7,Female,African American,1991-07-09,Master's
+1315,Richard,Garcia,richard.garcia@cocacola.com,+1-415-555-0115,1112,1228,1306,2015-08-12,NULL,Full-Time,Active,San Francisco,Senior Management,8.4,Male,Hispanic,1980-12-01,PhD
+1316,Patricia,Martinez,patricia.martinez@cocacola.com,+1-202-555-0116,1115,1260,1307,2018-04-18,NULL,Full-Time,Active,Washington DC,Professional,5.6,Female,Hispanic,1986-09-23,JD
+1317,Charles,Robinson,charles.robinson@cocacola.com,+1-212-555-0117,1116,1265,1307,2019-09-30,NULL,Full-Time,Active,New York,Management,4.2,Male,African American,1983-11-14,MBA
+1318,Maria,Clark,maria.clark@cocacola.com,+1-404-555-0118,1117,1267,1301,2017-12-05,NULL,Full-Time,Active,Atlanta,Management,6.1,Female,Asian,1985-02-19,Master's
+1319,Joseph,Rodriguez,joseph.rodriguez@cocacola.com,+1-408-555-0119,1118,1252,1309,2020-11-20,NULL,Full-Time,Active,San Jose,Senior Management,3.1,Male,Hispanic,1982-04-06,MBA
+1320,Susan,Lewis,susan.lewis@cocacola.com,+1-404-555-0120,1119,1253,1309,2019-01-15,NULL,Full-Time,Active,Atlanta,Senior Management,4.9,Female,Caucasian,1981-08-27,PhD
+1321,Matthew,Walker,matthew.walker@cocacola.com,+1-214-555-0121,1120,1258,1309,2021-06-08,NULL,Full-Time,Active,Dallas,Professional,2.4,Male,Asian,1992-12-03,Master's
+1322,Elizabeth,Hall,elizabeth.hall@cocacola.com,+1-404-555-0122,1121,1243,1308,2016-07-22,NULL,Full-Time,Active,Atlanta,Senior Management,7.4,Female,Caucasian,1979-03-30,MBA
+1323,Brian,Allen,brian.allen@cocacola.com,+1-305-555-0123,1122,1246,1308,2018-02-14,NULL,Full-Time,Active,Miami,Management,5.8,Male,African American,1984-06-11,Master's
+1324,Kimberly,Young,kimberly.young@cocacola.com,+1-404-555-0124,1123,1247,1308,2020-05-19,NULL,Full-Time,Active,Atlanta,Professional,3.5,Female,Asian,1990-09-08,Bachelor's
+1325,Kevin,King,kevin.king@cocacola.com,+1-312-555-0125,1124,1248,1308,2019-10-28,NULL,Full-Time,Active,Chicago,Professional,4.1,Male,Caucasian,1988-04-15,Bachelor's
+1326,Jason,Wright,jason.wright@cocacola.com,+1-313-555-0126,1125,1268,1304,2017-05-12,NULL,Full-Time,Active,Detroit,Senior Management,6.5,Male,African American,1980-07-22,MBA
+1327,Ashley,Scott,ashley.scott@cocacola.com,+1-901-555-0127,1126,1270,1304,2019-11-03,NULL,Full-Time,Active,Memphis,Management,4.0,Female,Caucasian,1987-01-29,Master's
+1328,Eric,Green,eric.green@cocacola.com,+1-206-555-0128,1127,1271,1304,2020-08-17,NULL,Full-Time,Active,Seattle,Management,3.2,Male,Asian,1986-11-12,MBA
+1329,Amanda,Adams,amanda.adams@cocacola.com,+65-555-0129,1128,1273,NULL,2015-04-05,NULL,Full-Time,Active,Singapore,Senior Management,8.6,Female,Asian,1978-10-04,MBA
+1330,Steven,Baker,steven.baker@cocacola.com,+44-555-0130,1129,1274,NULL,2014-12-18,NULL,Full-Time,Active,London,Senior Management,9.0,Male,Caucasian,1976-05-21,MBA
+1331,Melissa,Nelson,melissa.nelson@cocacola.com,+52-555-0131,1130,1275,NULL,2016-09-22,NULL,Full-Time,Active,Mexico City,Senior Management,7.2,Female,Hispanic,1980-02-08,MBA
+1332,Timothy,Carter,timothy.carter@cocacola.com,+65-555-0132,1128,1276,1329,2018-07-11,NULL,Full-Time,Active,Singapore,Senior Management,5.3,Male,Asian,1983-12-25,MBA
+1333,Rebecca,Mitchell,rebecca.mitchell@cocacola.com,+44-555-0133,1129,1277,1330,2019-03-29,NULL,Full-Time,Active,London,Senior Management,4.6,Female,Caucasian,1985-08-13,MBA
+1334,Jeremy,Perez,jeremy.perez@cocacola.com,+52-555-0134,1130,1278,1331,2020-01-14,NULL,Full-Time,Active,Mexico City,Senior Management,3.9,Male,Hispanic,1984-03-07,MBA
+1335,Heather,Roberts,heather.roberts@cocacola.com,+1-404-555-0135,1111,1279,1304,2017-08-09,NULL,Full-Time,Active,Atlanta,Senior Management,6.4,Female,Caucasian,1982-06-30,MBA
+1336,Andrew,Turner,andrew.turner@cocacola.com,+1-213-555-0136,1110,1281,1313,2021-02-25,NULL,Full-Time,Active,Los Angeles,Professional,2.8,Male,Hispanic,1992-10-17,Bachelor's
+1337,Christina,Phillips,christina.phillips@cocacola.com,+1-404-555-0137,1102,1282,1304,2020-07-07,NULL,Full-Time,Active,Atlanta,Professional,3.3,Female,African American,1991-04-02,Bachelor's
+1338,Gary,Campbell,gary.campbell@cocacola.com,+1-404-555-0138,1102,1283,1304,2019-05-21,NULL,Full-Time,Active,Atlanta,Professional,4.5,Male,Caucasian,1989-11-28,Master's
+1339,Anna,Parker,anna.parker@cocacola.com,+1-214-555-0139,1109,1284,1304,2018-11-30,NULL,Full-Time,Active,Houston,Management,5.1,Female,Asian,1986-07-05,MBA
+1340,Scott,Evans,scott.evans@cocacola.com,+1-713-555-0140,1109,1285,1304,2020-04-12,NULL,Full-Time,Active,Houston,Management,3.6,Male,Caucasian,1988-09-24,Bachelor's
