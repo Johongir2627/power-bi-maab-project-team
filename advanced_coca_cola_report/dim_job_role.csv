@@ -1,0 +1,101 @@
+JobRoleID|JobTitle|JobLevel|DepartmentID|SalaryBand_Min|SalaryBand_Max|BonusPercentage|ExperienceRequired
+1201|Chief Commercial Officer|Executive|1101|350000|500000|50,0|15+
+1202|VP of Global Sales|Executive|1107|300000|450000|45,0|15+
+1203|VP of Marketing|Executive|1108|280000|420000|40,0|15+
+1204|Sales Director|Senior Management|1101|200000|350000|35,0|12+
+1205|Regional Sales Manager|Senior Management|1107|180000|280000|30,0|10+
+1206|Brand Director|Senior Management|1108|190000|300000|32,0|10+
+1207|Sales Manager|Management|1101|120000|180000|25,0|8+
+1208|Account Executive|Professional|1101|80000|120000|20,0|5+
+1209|Sales Representative|Professional|1101|60000|90000|15,0|3+
+1210|Key Account Manager|Professional|1101|90000|130000|22,0|6+
+1211|Marketing Manager|Management|1108|110000|160000|24,0|8+
+1212|Digital Marketing Specialist|Professional|1108|75000|110000|18,0|4+
+1213|Brand Manager|Professional|1108|85000|125000|20,0|5+
+1214|Market Research Analyst|Professional|1108|70000|100000|15,0|3+
+1215|Chief Operations Officer|Executive|1102|320000|480000|48,0|15+
+1216|VP of Supply Chain|Executive|1102|280000|420000|42,0|15+
+1217|VP of Manufacturing|Executive|1110|270000|400000|40,0|15+
+1218|Supply Chain Director|Senior Management|1102|190000|290000|35,0|12+
+1219|Logistics Director|Senior Management|1109|180000|270000|32,0|12+
+1220|Plant Manager|Senior Management|1110|170000|260000|30,0|10+
+1221|Procurement Manager|Management|1125|130000|190000|28,0|8+
+1222|Logistics Coordinator|Professional|1109|50000|75000|12,0|3+
+1223|Inventory Analyst|Professional|1126|55000|80000|13,0|3+
+1224|Production Supervisor|Management|1110|75000|110000|18,0|6+
+1225|Quality Control Manager|Management|1111|95000|140000|22,0|7+
+1226|Chief Innovation Officer|Executive|1103|310000|460000|45,0|15+
+1227|VP of R&D|Executive|1103|270000|400000|40,0|15+
+1228|Director of Product Development|Senior Management|1112|200000|310000|35,0|12+
+1229|Senior Scientist|Senior Professional|1103|130000|190000|28,0|10+
+1230|Product Development Scientist|Professional|1112|80000|120000|20,0|5+
+1231|Flavor Chemist|Professional|1103|85000|125000|21,0|6+
+1232|Packaging Engineer|Professional|1113|75000|110000|18,0|4+
+1233|Chief Financial Officer|Executive|1104|350000|500000|50,0|15+
+1234|VP of Finance|Executive|1104|280000|420000|42,0|15+
+1235|Financial Director|Senior Management|1104|200000|320000|35,0|12+
+1236|Financial Controller|Management|1104|130000|200000|28,0|8+
+1237|Financial Analyst|Professional|1104|65000|95000|16,0|3+
+1238|Treasury Manager|Management|1104|140000|210000|30,0|9+
+1239|Internal Auditor|Professional|1104|70000|105000|17,0|4+
+1240|Chief Human Resources Officer|Executive|1105|300000|450000|45,0|15+
+1241|VP of HR|Executive|1105|260000|390000|40,0|15+
+1242|HR Director|Senior Management|1105|190000|290000|35,0|12+
+1243|Talent Acquisition Director|Senior Management|1121|180000|270000|32,0|12+
+1244|HR Business Partner|Professional|1105|70000|100000|18,0|5+
+1245|Recruitment Specialist|Professional|1121|60000|90000|15,0|3+
+1246|Learning & Development Manager|Management|1122|95000|140000|22,0|7+
+1247|Compensation Analyst|Professional|1123|65000|95000|16,0|4+
+1248|Employee Relations Specialist|Professional|1124|60000|90000|15,0|3+
+1249|Chief Information Officer|Executive|1106|320000|480000|48,0|15+
+1250|VP of IT|Executive|1106|280000|420000|42,0|15+
+1251|IT Director|Senior Management|1106|200000|310000|35,0|12+
+1252|Digital Transformation Director|Senior Management|1118|190000|290000|34,0|12+
+1253|Data Analytics Director|Senior Management|1119|185000|280000|33,0|12+
+1254|IT Systems Analyst|Professional|1106|75000|110000|18,0|5+
+1255|Software Developer|Professional|1106|80000|120000|20,0|5+
+1256|Network Engineer|Professional|1106|85000|125000|21,0|6+
+1257|Data Scientist|Professional|1119|95000|140000|24,0|6+
+1258|Cyber Security Analyst|Professional|1120|90000|135000|23,0|6+
+1259|Legal Director|Senior Management|1115|220000|330000|38,0|12+
+1260|Corporate Counsel|Professional|1115|130000|200000|28,0|8+
+1261|Compliance Officer|Professional|1115|100000|150000|25,0|7+
+1262|Strategy Director|Senior Management|1114|210000|320000|36,0|12+
+1263|Corporate Strategy Analyst|Professional|1114|85000|125000|21,0|5+
+1264|Investor Relations Director|Senior Management|1116|190000|290000|34,0|12+
+1265|IR Manager|Management|1116|120000|180000|26,0|8+
+1266|Communications Director|Senior Management|1117|180000|270000|32,0|12+
+1267|Public Relations Manager|Management|1117|110000|165000|24,0|7+
+1268|Procurement Director|Senior Management|1125|190000|290000|34,0|12+
+1269|Sourcing Specialist|Professional|1125|70000|105000|17,0|4+
+1270|Inventory Manager|Management|1126|100000|150000|23,0|7+
+1271|Environmental Manager|Management|1127|110000|170000|25,0|8+
+1272|Sustainability Analyst|Professional|1127|65000|95000|16,0|4+
+1273|APAC Operations Director|Senior Management|1128|220000|340000|39,0|12+
+1274|EMEA Operations Director|Senior Management|1129|230000|350000|40,0|12+
+1275|Americas Operations Director|Senior Management|1130|240000|360000|41,0|12+
+1276|Regional Sales Manager APAC|Senior Management|1128|200000|310000|36,0|12+
+1277|Regional Sales Manager EMEA|Senior Management|1129|210000|320000|37,0|12+
+1278|Regional Sales Manager Americas|Senior Management|1130|220000|330000|38,0|12+
+1279|Quality Assurance Director|Senior Management|1111|180000|270000|32,0|12+
+1280|QA Analyst|Professional|1111|70000|105000|17,0|4+
+1281|Manufacturing Engineer|Professional|1110|80000|120000|20,0|5+
+1282|Supply Chain Analyst|Professional|1102|65000|95000|16,0|3+
+1283|Demand Planner|Professional|1102|70000|100000|17,0|4+
+1284|Transportation Manager|Management|1109|110000|170000|25,0|8+
+1285|Warehouse Supervisor|Management|1109|75000|115000|19,0|6+
+1286|Category Manager|Management|1101|130000|200000|28,0|8+
+1287|Trade Marketing Manager|Management|1108|115000|175000|26,0|8+
+1288|Digital Product Manager|Management|1118|120000|180000|27,0|8+
+1289|UX/UI Designer|Professional|1118|85000|130000|21,0|5+
+1290|DevOps Engineer|Professional|1106|100000|150000|24,0|6+
+1291|Database Administrator|Professional|1106|95000|145000|23,0|6+
+1292|Technical Support Specialist|Professional|1106|55000|85000|14,0|3+
+1293|Payroll Specialist|Professional|1123|60000|90000|15,0|3+
+1294|Benefits Administrator|Professional|1123|58000|88000|14,0|3+
+1295|Training Coordinator|Professional|1122|55000|85000|13,0|3+
+1296|Organizational Development Specialist|Professional|1122|75000|115000|19,0|5+
+1297|Talent Management Specialist|Professional|1121|80000|120000|20,0|5+
+1298|Employee Engagement Specialist|Professional|1124|65000|95000|16,0|4+
+1299|Corporate Recruiter|Professional|1121|70000|105000|17,0|4+
+1300|Executive Assistant|Support|1104|55000|85000|12,0|3+
