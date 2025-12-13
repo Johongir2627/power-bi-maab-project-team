@@ -1,0 +1,101 @@
+WarehouseID|WarehouseName|Location|RegionID|Capacity|CapacityUnit|WarehouseType|OperationalSince|Status|ManagerID|StorageCost|HandlingCost|TechnologyLevel
+5001|LA Distribution Center|Los Angeles|3001|5000000|Units|Primary DC|2000-06-15|Active|5101|0,85|0,45|Advanced
+5002|Houston Logistics Hub|Houston|3002|4000000|Units|Primary DC|2002-09-20|Active|5102|0,80|0,42|Advanced
+5003|Northeast Distribution Center|New York|3003|3500000|Units|Primary DC|1998-11-10|Active|5103|0,90|0,48|Advanced
+5004|Miami Fulfillment Center|Miami|3004|3000000|Units|Primary DC|2001-03-25|Active|5104|0,75|0,40|Standard
+5005|Chicago Central Hub|Chicago|3005|4500000|Units|Primary DC|1995-08-05|Active|5105|0,82|0,43|Advanced
+5006|Atlanta Regional Warehouse|Atlanta|3016|2800000|Units|Regional DC|2005-04-18|Active|5106|0,78|0,41|Standard
+5007|Dallas Fulfillment Center|Dallas|3014|3200000|Units|Regional DC|2003-07-30|Active|5107|0,76|0,39|Standard
+5008|San Francisco Logistics|San Francisco|3012|2500000|Units|Regional DC|2006-12-10|Active|5108|0,95|0,50|Advanced
+5009|Seattle Distribution Hub|Seattle|3021|2200000|Units|Regional DC|2008-09-22|Active|5109|0,88|0,46|Standard
+5010|Denver Cross-Dock Center|Denver|3022|1800000|Units|Cross-Dock|2010-05-15|Active|5110|0,72|0,38|Basic
+5011|Phoenix Fulfillment|Phoenix|3023|2000000|Units|Regional DC|2009-11-08|Active|5111|0,70|0,36|Standard
+5012|Orlando Distribution|Orlando|3011|2400000|Units|Regional DC|2004-02-28|Active|5112|0,77|0,40|Standard
+5013|Philadelphia Warehouse|Philadelphia|3017|1900000|Units|Regional DC|2007-06-12|Active|5113|0,85|0,44|Standard
+5014|Boston Logistics Center|Boston|3018|1600000|Units|Regional DC|2011-03-05|Active|5114|0,92|0,48|Standard
+5015|Detroit Fulfillment Hub|Detroit|3019|1700000|Units|Regional DC|2012-08-20|Active|5115|0,84|0,42|Basic
+5016|Columbus Distribution|Columbus|3020|1500000|Units|Regional DC|2013-04-14|Active|5116|0,79|0,41|Basic
+5017|St, Louis Warehouse|St, Louis|3026|1400000|Units|Regional DC|2014-09-30|Active|5117|0,75|0,39|Basic
+5018|Minneapolis Logistics|Minneapolis|3028|1600000|Units|Regional DC|2015-07-22|Active|5118|0,81|0,43|Standard
+5019|Portland Fulfillment|Portland|3029|1300000|Units|Regional DC|2016-11-15|Active|5119|0,86|0,45|Basic
+5020|Charlotte Distribution|Charlotte|3030|1800000|Units|Regional DC|2017-05-10|Active|5120|0,78|0,40|Standard
+5021|Toronto Central Warehouse|Toronto|3006|3800000|Units|Primary DC|1999-04-12|Active|5121|0,83|0,44|Advanced
+5022|Vancouver Logistics Hub|Vancouver|3007|2500000|Units|Regional DC|2003-10-08|Active|5122|0,87|0,46|Advanced
+5023|Montreal Distribution|Montreal|3031|3000000|Units|Regional DC|2001-12-05|Active|5123|0,82|0,43|Standard
+5024|Calgary Fulfillment Center|Calgary|3032|1800000|Units|Regional DC|2008-03-20|Active|5124|0,79|0,41|Standard
+5025|Winnipeg Warehouse|Winnipeg|3033|1200000|Units|Regional DC|2010-08-15|Active|5125|0,76|0,39|Basic
+5026|Edmonton Distribution|Edmonton|3032|1600000|Units|Regional DC|2012-06-25|Active|5126|0,77|0,40|Basic
+5027|Ottawa Logistics|Ottawa|3006|1400000|Units|Regional DC|2014-09-18|Active|5127|0,84|0,44|Standard
+5028|Halifax Warehouse|Halifax|3034|800000|Units|Regional DC|2016-11-30|Active|5128|0,88|0,46|Basic
+5029|Mexico City Distribution Center|Mexico City|3008|3500000|Units|Primary DC|1997-08-22|Active|5129|0,65|0,35|Advanced
+5030|Guadalajara Logistics Hub|Guadalajara|3036|2200000|Units|Regional DC|2002-05-14|Active|5130|0,62|0,33|Standard
+5031|Monterrey Fulfillment|Monterrey|3037|2000000|Units|Regional DC|2005-11-30|Active|5131|0,63|0,34|Standard
+5032|Tijuana Cross-Dock Center|Tijuana|3038|1500000|Units|Cross-Dock|2009-07-12|Active|5132|0,60|0,32|Basic
+5033|Puebla Warehouse|Puebla|3039|1300000|Units|Regional DC|2011-04-25|Active|5133|0,61|0,33|Basic
+5034|London Global Distribution Centre|London|3009|4500000|Units|Primary DC|1994-03-10|Active|5134|0,90|0,47|Advanced
+5035|Manchester Regional Hub|Manchester|3044|2800000|Units|Regional DC|2000-09-05|Active|5135|0,85|0,45|Advanced
+5036|Birmingham Fulfillment Center|Birmingham|3045|2200000|Units|Regional DC|2003-12-18|Active|5136|0,82|0,43|Standard
+5037|Glasgow Distribution|Glasgow|3041|1800000|Units|Regional DC|2006-08-22|Active|5137|0,87|0,46|Standard
+5038|Cardiff Warehouse|Cardiff|3042|1200000|Units|Regional DC|2009-05-14|Active|5138|0,84|0,44|Basic
+5039|Belfast Logistics|Belfast|3043|1000000|Units|Regional DC|2012-11-30|Active|5139|0,86|0,45|Basic
+5040|Munich European Distribution Center|Munich|3010|4200000|Units|Primary DC|1996-05-20|Active|5140|0,88|0,46|Advanced
+5041|D?sseldorf Logistics Hub|D?sseldorf|3046|3200000|Units|Regional DC|2001-10-15|Active|5141|0,85|0,45|Advanced
+5042|Stuttgart Fulfillment|Stuttgart|3047|2500000|Units|Regional DC|2004-07-30|Active|5142|0,83|0,44|Standard
+5043|Hamburg Warehouse|Hamburg|3050|2200000|Units|Regional DC|2007-04-12|Active|5143|0,86|0,45|Standard
+5044|Hanover Distribution|Hanover|3048|1800000|Units|Regional DC|2010-09-25|Active|5144|0,82|0,43|Standard
+5045|Paris Central Distribution|Paris|3051|4000000|Units|Primary DC|1998-02-28|Active|5145|0,87|0,46|Advanced
+5046|Marseille Logistics Hub|Marseille|3052|2600000|Units|Regional DC|2002-11-15|Active|5146|0,84|0,44|Standard
+5047|Lyon Fulfillment Center|Lyon|3053|2400000|Units|Regional DC|2005-06-20|Active|5147|0,82|0,43|Standard
+5048|Madrid Iberian Distribution|Madrid|3056|3500000|Units|Primary DC|1999-08-12|Active|5148|0,81|0,42|Advanced
+5049|Barcelona Logistics Hub|Barcelona|3057|2800000|Units|Regional DC|2003-05-25|Active|5149|0,83|0,44|Standard
+5050|Seville Warehouse|Seville|3058|1800000|Units|Regional DC|2008-01-15|Active|5150|0,79|0,41|Standard
+5051|Rome Distribution Center|Rome|3061|3200000|Units|Primary DC|2000-04-10|Active|5151|0,85|0,45|Standard
+5052|Milan Logistics Hub|Milan|3062|3000000|Units|Regional DC|2004-09-22|Active|5152|0,87|0,46|Advanced
+5053|Naples Fulfillment|Naples|3063|2200000|Units|Regional DC|2007-12-15|Active|5153|0,83|0,44|Standard
+5054|Amsterdam European Hub|Amsterdam|3066|3800000|Units|Primary DC|1997-07-30|Active|5154|0,86|0,45|Advanced
+5055|Rotterdam Port Warehouse|Rotterdam|3067|4200000|Units|Port Facility|1995-11-08|Active|5155|0,75|0,40|Advanced
+5056|Brussels Distribution|Brussels|3068|2500000|Units|Regional DC|2001-06-18|Active|5156|0,84|0,44|Standard
+5057|Zurich Logistics Center|Zurich|3069|2000000|Units|Regional DC|2006-03-05|Active|5157|0,92|0,48|Advanced
+5058|Vienna Warehouse|Vienna|3071|1800000|Units|Regional DC|2009-10-12|Active|5158|0,89|0,47|Standard
+5059|Dublin Distribution|Dublin|3073|1600000|Units|Regional DC|2012-04-20|Active|5159|0,87|0,46|Standard
+5060|Copenhagen Logistics|Copenhagen|3074|1500000|Units|Regional DC|2015-08-15|Active|5160|0,90|0,47|Standard
+5061|Shanghai Mega Distribution|Shanghai|3121|8000000|Units|Primary DC|1993-09-05|Active|5161|0,65|0,35|Advanced
+5062|Beijing Logistics Hub|Beijing|3122|6000000|Units|Primary DC|1996-12-20|Active|5162|0,67|0,36|Advanced
+5063|Guangzhou Distribution Center|Guangzhou|3123|5500000|Units|Regional DC|1999-04-15|Active|5163|0,64|0,34|Advanced
+5064|Shenzhen Fulfillment|Shenzhen|3121|4800000|Units|Regional DC|2002-08-30|Active|5164|0,63|0,33|Advanced
+5065|Chengdu Regional Hub|Chengdu|3124|3500000|Units|Regional DC|2005-11-12|Active|5165|0,66|0,35|Standard
+5066|Hangzhou Warehouse|Hangzhou|3125|2800000|Units|Regional DC|2008-07-25|Active|5166|0,68|0,36|Standard
+5067|Nanjing Distribution|Nanjing|3126|2500000|Units|Regional DC|2011-03-18|Active|5167|0,67|0,35|Standard
+5068|Tokyo Japan Distribution Center|Tokyo|3131|6500000|Units|Primary DC|1992-05-10|Active|5168|0,95|0,50|Advanced
+5069|Osaka Logistics Hub|Osaka|3132|4500000|Units|Regional DC|1997-10-22|Active|5169|0,93|0,49|Advanced
+5070|Sapporo Fulfillment|Sapporo|3134|2200000|Units|Regional DC|2003-06-14|Active|5170|0,96|0,51|Standard
+5071|Fukuoka Warehouse|Fukuoka|3135|2000000|Units|Regional DC|2006-12-05|Active|5171|0,94|0,49|Standard
+5072|Seoul Distribution Center|Seoul|3136|5000000|Units|Primary DC|1995-08-30|Active|5172|0,90|0,47|Advanced
+5073|Busan Logistics Hub|Busan|3137|3500000|Units|Regional DC|2000-04-15|Active|5173|0,88|0,46|Standard
+5074|Mumbai Distribution Center|Mumbai|3141|4200000|Units|Primary DC|1998-11-20|Active|5174|0,58|0,31|Advanced
+5075|Delhi Logistics Hub|Delhi|3142|3800000|Units|Regional DC|2001-07-12|Active|5175|0,60|0,32|Standard
+5076|Bangalore Fulfillment|Bangalore|3143|3200000|Units|Regional DC|2004-02-28|Active|5176|0,59|0,31|Standard
+5077|Kolkata Warehouse|Kolkata|3144|2800000|Units|Regional DC|2007-09-15|Active|5177|0,57|0,30|Standard
+5078|Chennai Distribution|Chennai|3145|2500000|Units|Regional DC|2010-05-20|Active|5178|0,58|0,31|Standard
+5079|Sydney Distribution Center|Sydney|3151|3800000|Units|Primary DC|1999-03-10|Active|5179|0,88|0,46|Advanced
+5080|Melbourne Logistics Hub|Melbourne|3152|3200000|Units|Regional DC|2002-10-25|Active|5180|0,86|0,45|Advanced
+5081|Brisbane Fulfillment|Brisbane|3153|2500000|Units|Regional DC|2006-04-18|Active|5181|0,85|0,44|Standard
+5082|Perth Warehouse|Perth|3154|1800000|Units|Regional DC|2009-11-30|Active|5182|0,87|0,46|Standard
+5083|Adelaide Distribution|Adelaide|3155|1500000|Units|Regional DC|2012-08-12|Active|5183|0,86|0,45|Basic
+5084|Jakarta Distribution Center|Jakarta|3160|3500000|Units|Primary DC|2001-05-15|Active|5184|0,55|0,29|Standard
+5085|Surabaya Logistics Hub|Surabaya|3161|2500000|Units|Regional DC|2005-09-22|Active|5185|0,53|0,28|Standard
+5086|Singapore Regional Hub|Singapore|3176|4500000|Units|Primary DC|1996-12-05|Active|5186|0,80|0,42|Advanced
+5087|Kuala Lumpur Distribution|Kuala Lumpur|3173|2800000|Units|Regional DC|2000-08-18|Active|5187|0,75|0,39|Standard
+5088|Bangkok Fulfillment Center|Bangkok|3167|3200000|Units|Regional DC|2003-11-25|Active|5188|0,72|0,38|Standard
+5089|Ho Chi Minh City Warehouse|Ho Chi Minh City|3170|2500000|Units|Regional DC|2007-06-14|Active|5189|0,70|0,37|Standard
+5090|Manila Distribution|Manila|3164|3000000|Units|Regional DC|2004-04-20|Active|5190|0,68|0,36|Standard
+5091|S?o Paulo Mega Distribution|S?o Paulo|3181|5500000|Units|Primary DC|1994-07-30|Active|5191|0,60|0,32|Advanced
+5092|Rio de Janeiro Logistics|Rio de Janeiro|3182|3500000|Units|Regional DC|1998-12-12|Active|5192|0,62|0,33|Standard
+5093|Buenos Aires Distribution|Buenos Aires|3190|3200000|Units|Primary DC|1997-05-25|Active|5193|0,65|0,34|Standard
+5094|Santiago Fulfillment|Santiago|3193|2500000|Units|Regional DC|2002-09-18|Active|5194|0,67|0,35|Standard
+5095|Bogot? Warehouse|Bogot?|3195|2200000|Units|Regional DC|2006-03-05|Active|5195|0,64|0,34|Standard
+5096|Moscow Distribution Center|Moscow|3089|4500000|Units|Primary DC|1993-04-10|Active|5196|0,70|0,37|Advanced
+5097|St, Petersburg Logistics|St, Petersburg|3090|3000000|Units|Regional DC|1999-11-22|Active|5197|0,72|0,38|Standard
+5098|Johannesburg Distribution|Johannesburg|3100|3200000|Units|Primary DC|1998-08-15|Active|5198|0,68|0,36|Standard
+5099|Cape Town Fulfillment|Cape Town|3101|2500000|Units|Regional DC|2003-02-28|Active|5199|0,70|0,37|Standard
+5100|Dubai Middle East Hub|Dubai|3094|3800000|Units|Primary DC|1999-10-05|Active|5200|0,75|0,39|Advanced
