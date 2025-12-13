@@ -1,0 +1,101 @@
+CampaignID|CampaignName|CampaignType|TargetAudience|Budget|Status|StartDate|EndDate|RegionScope|ProductFocus|Brand|ROI_Target|Engagement_Target|Impression_Target
+8001|Share a Coke|Personalization|Young Adults (18-25)|5000000,00|Active|2024-05-01|2024-12-31|Global|All Products|Coca-Cola|120|3,5|500000000
+8002|Open Happiness|Brand Awareness|General Public|8000000,00|Completed|2023-01-01|2023-12-31|Global|Colas|Coca-Cola|110|2,8|800000000
+8003|Taste the Feeling|Product Launch|Millennials (25-40)|6500000,00|Active|2024-03-15|2024-11-30|Global|All Products|Coca-Cola|125|4,2|650000000
+8004|Summer Refresh|Seasonal Promotion|Families|3500000,00|Active|2024-06-01|2024-08-31|Northern Hemisphere|Soft Drinks|Coca-Cola|115|3,2|350000000
+8005|Zero Sugar Launch|New Product Launch|Health Conscious|4500000,00|Planning|2024-09-01|2024-12-31|Global|Zero Sugar Products|Coca-Cola|130|3,8|450000000
+8006|Real Magic|Brand Positioning|Young Adults (16-24)|4200000,00|Active|2024-04-01|2024-10-31|Global|All Products|Coca-Cola|118|4,5|420000000
+8007|Sprite Limelight|Limited Edition|Teens & Young Adults|2800000,00|Active|2024-07-01|2024-09-30|Global|Sprite|Sprite|122|4,8|280000000
+8008|Fanta Playground|Interactive Campaign|Families with Kids|3200000,00|Active|2024-06-15|2024-08-31|Europe & Asia|Fanta|Fanta|116|3,9|320000000
+8009|Smartwater Hydration|Wellness Campaign|Health & Fitness Enthusiasts|3800000,00|Active|2024-01-01|2024-12-31|Global|Smartwater|Smartwater|128|3,1|380000000
+8010|Minute Maid Morning Boost|Daypart Marketing|Busy Professionals|2900000,00|Active|2024-02-01|2024-11-30|North America|Minute Maid|Minute Maid|119|2,9|290000000
+8011|POWERADE Fuel Up|Sports Sponsorship|Athletes & Sports Fans|5200000,00|Active|2024-03-01|2024-12-31|Global|POWERADE|POWERADE|135|3,4|520000000
+8012|Dasani Pure Life|Sustainability Campaign|Eco-Conscious Consumers|3100000,00|Active|2024-04-22|2024-11-15|Global|Dasani|Dasani|121|2,7|310000000
+8013|Costa Coffee Break|Moment Marketing|Office Workers & Students|2700000,00|Active|2024-01-15|2024-10-31|Europe & Asia|Costa Coffee|Costa|124|3,3|270000000
+8014|Monster Unleashed|Energy Lifestyle|Gamers & Extreme Sports|4800000,00|Active|2024-03-01|2024-12-31|Global|Monster|Monster|140|4,9|480000000
+8015|Simply Natural|Purity Campaign|Organic & Natural Consumers|3600000,00|Active|2024-05-01|2024-11-30|North America|Simply|Simply|126|3,0|360000000
+8016|Gold Peak Southern Charm|Regional Marketing|Southern US Consumers|2200000,00|Active|2024-04-01|2024-10-31|Southern US|Gold Peak|Gold Peak|117|2,8|220000000
+8017|Barq's Root Beer Revival|Nostalgia Marketing|Adults 35+|1900000,00|Active|2024-06-01|2024-09-30|North America|Barq's|Barq's|112|2,5|190000000
+8018|Fairlife Protein Power|Health Education|Fitness & Bodybuilding|3300000,00|Active|2024-01-01|2024-12-31|Global|Fairlife|Fairlife|132|3,6|330000000
+8019|Topo Chico Sparkling Fiesta|Hispanic Marketing|Hispanic Consumers|2500000,00|Active|2024-05-05|2024-11-02|Americas|Topo Chico|Topo Chico|123|3,7|250000000
+8020|AHA Bubble Experience|Sensory Marketing|Young Professionals|2100000,00|Active|2024-04-15|2024-10-15|North America|AHA|AHA|120|4,1|210000000
+8021|Coca-Cola Christmas Trucks|Holiday Marketing|Families|6800000,00|Planning|2024-11-15|2024-12-31|Global|All Products|Coca-Cola|145|4,0|680000000
+8022|Sprite Zero Cool Refresh|Product Relaunch|Health-Conscious Youth|2400000,00|Active|2024-03-01|2024-08-31|Global|Sprite Zero|Sprite|125|4,3|240000000
+8023|Fanta Global Carnival|Cultural Celebration|Global Youth|4100000,00|Active|2024-07-01|2024-09-30|Global|Fanta|Fanta|127|4,6|410000000
+8024|Smartwater Alkaline Upgrade|Premiumization|Wellness Leaders|2900000,00|Active|2024-02-01|2024-10-31|Global|Smartwater Alkaline|Smartwater|135|2,8|290000000
+8025|Minute Maid Immunity Boost|Health Solution|Health-Conscious Families|3400000,00|Active|2024-09-01|2024-12-31|North America|Minute Maid|Minute Maid|128|3,2|340000000
+8026|POWERADE Zero Game Day|Sports Performance|Competitive Athletes|3100000,00|Active|2024-08-01|2024-12-31|Global|POWERADE Zero|POWERADE|138|3,5|310000000
+8027|Dasani Sparkling Mixology|Cocktail Culture|Young Adults 21+|2300000,00|Active|2024-05-15|2024-11-15|Global|Dasani Sparkling|Dasani|122|4,2|230000000
+8028|Costa Coffee Morning Ritual|Daily Habit|Commuting Professionals|2600000,00|Active|2024-01-01|2024-06-30|Europe|Costa Coffee|Costa|121|3,1|260000000
+8029|Monster Java Coffee Fusion|Coffee Energy|Coffee & Energy Drink Fans|3200000,00|Active|2024-02-01|2024-10-31|Global|Monster Java|Monster|136|3,8|320000000
+8030|Simply Organic Certification|Organic Claim|Organic Consumers|2800000,00|Active|2024-04-01|2024-09-30|North America|Simply Organic|Simply|129|2,9|280000000
+8031|Honest Tea Ethical Choice|Values-Based|Ethical Consumers|1900000,00|Active|2024-03-15|2024-11-15|North America|Honest Tea|Honest Tea|124|3,0|190000000
+8032|BodyArmor Natural Advantage|Natural Sports|Natural Product Seekers|3700000,00|Active|2024-05-01|2024-12-31|Global|BodyArmor|BodyArmor|134|3,7|370000000
+8033|Odwalla Superfood Blends|Superfood Trend|Health Enthusiasts|2500000,00|Active|2024-01-15|2024-08-31|North America|Odwalla|Odwalla|126|3,4|250000000
+8034|Fairlife Lactose-Free Solution|Dietary Need|Lactose-Intolerant|3000000,00|Active|2024-03-01|2024-11-30|Global|Fairlife|Fairlife|131|3,3|300000000
+8035|Topo Chico Mineral Heritage|Heritage Story|Heritage Consumers|2200000,00|Active|2024-06-01|2024-10-31|Americas|Topo Chico|Topo Chico|119|3,6|220000000
+8036|AHA Flavor Exploration|Flavor Discovery|Flavor Adventurers|2000000,00|Active|2024-04-01|2024-09-30|North America|AHA|AHA|121|4,4|200000000
+8037|Coca-Cola Starlight Limited|Limited Edition|Collectors & Trendsetters|3500000,00|Completed|2024-01-01|2024-02-28|Global|Coca-Cola Starlight|Coca-Cola|150|5,2|350000000
+8038|Sprite Winter Spiced|Seasonal Flavor|Holiday Consumers|1800000,00|Planning|2024-11-01|2024-12-31|Global|Sprite|Sprite|118|3,9|180000000
+8039|Fanta Tropical Escape|Vacation Marketing|Vacationers|2700000,00|Active|2024-06-01|2024-08-31|Global|Fanta|Fanta|123|4,0|270000000
+8040|Smartwater Vapor Distilled|Technology Story|Tech-Savvy Consumers|2400000,00|Active|2024-02-15|2024-10-15|Global|Smartwater|Smartwater|127|3,0|240000000
+8041|Minute Maid Vitamin C Boost|Immunity Focus|Health-Conscious Parents|3100000,00|Active|2024-10-01|2024-12-31|North America|Minute Maid|Minute Maid|125|3,1|310000000
+8042|POWERADE Electrolyte Science|Science Education|Serious Athletes|3300000,00|Active|2024-04-01|2024-11-30|Global|POWERADE|POWERADE|137|3,3|330000000
+8043|Dasani Plant Bottle|Environmental Innovation|Eco-Conscious|2900000,00|Active|2024-04-01|2024-12-31|Global|Dasani|Dasani|124|2,8|290000000
+8044|Costa Coffee Premium Experience|Premium Positioning|Coffee Connoisseurs|3200000,00|Active|2024-03-01|2024-09-30|Global|Costa Coffee|Costa|133|3,4|320000000
+8045|Monster Ultra Zero Calorie|Zero Calorie Shift|Calorie-Conscious|3500000,00|Active|2024-01-01|2024-12-31|Global|Monster Ultra|Monster|139|4,1|350000000
+8046|Simply No Additives|Clean Label|Clean Label Consumers|2700000,00|Active|2024-05-15|2024-11-15|North America|Simply|Simply|128|3,2|270000000
+8047|Gold Peak Sweet Tea Tradition|Southern Tradition|Southern Traditionalists|2100000,00|Active|2024-04-15|2024-10-15|Southern US|Gold Peak|Gold Peak|116|2,7|210000000
+8048|Barq's Spicy Bite|Flavor Innovation|Bold Flavor Lovers|1700000,00|Active|2024-07-01|2024-09-30|North America|Barq's|Barq's|114|3,1|170000000
+8049|Fairlife Core Power|Muscle Recovery|Fitness Enthusiasts|3400000,00|Active|2024-02-01|2024-11-30|Global|Fairlife Core|Fairlife|141|3,8|340000000
+8050|Topo Chico Cocktail Ready|Mixer Positioning|Bartenders & Mixologists|2300000,00|Active|2024-05-01|2024-11-30|Global|Topo Chico|Topo Chico|126|4,3|230000000
+8051|AHA Caffeine Sparkling|Energy Sparkling|Energy Seekers|2200000,00|Active|2024-03-15|2024-10-31|North America|AHA|AHA|123|4,2|220000000
+8052|Coca-Cola Creations Platform|Innovation Platform|Innovation Followers|5500000,00|Active|2024-01-01|2024-12-31|Global|Coca-Cola Creations|Coca-Cola|142|5,0|550000000
+8053|Sprite Clear Lemon|Sustainability Focus|Eco-Conscious Youth|2600000,00|Active|2024-06-01|2024-09-30|Global|Sprite|Sprite|124|4,4|260000000
+8054|Fanta Color Festival|Vibrant Experience|Color & Joy Seekers|3100000,00|Active|2024-07-15|2024-09-15|Global|Fanta|Fanta|129|4,7|310000000
+8055|Smartwater Alkaline pH|Science Story|Science-Minded Consumers|2700000,00|Active|2024-04-01|2024-10-31|Global|Smartwater Alkaline|Smartwater|132|3,1|270000000
+8056|Minute Maid Kids Healthy Start|Children's Health|Parents of Young Kids|2900000,00|Active|2024-08-15|2024-12-15|North America|Minute Maid|Minute Maid|127|3,3|290000000
+8057|POWERADE Sports Science Lab|Performance Science|Elite Athletes|3600000,00|Active|2024-05-01|2024-12-31|Global|POWERADE|POWERADE|143|3,6|360000000
+8058|Dasani Aluminum Can Switch|Packaging Innovation|Packaging Conscious|2500000,00|Active|2024-03-01|2024-08-31|Global|Dasani|Dasani|122|2,9|250000000
+8059|Costa Coffee Cold Brew|Summer Refreshment|Cold Coffee Lovers|2400000,00|Active|2024-05-01|2024-09-30|Global|Costa Coffee|Costa|125|3,5|240000000
+8060|Monster Hydro Water + Energy|Hydration + Energy|Athletes Needing Hydration|3300000,00|Active|2024-04-01|2024-11-30|Global|Monster Hydro|Monster|137|3,9|330000000
+8061|Simply Heart Healthy|Heart Health|Heart-Health Conscious|2800000,00|Active|2024-02-01|2024-10-31|North America|Simply|Simply|126|3,0|280000000
+8062|Honest Tea Low Sugar|Reduced Sugar|Reduced Sugar Seekers|2000000,00|Active|2024-01-15|2024-07-31|North America|Honest Tea|Honest Tea|123|2,8|200000000
+8063|BodyArmor LYTE Hydration|Light Hydration|Light Hydration Needs|2900000,00|Active|2024-06-01|2024-10-31|Global|BodyArmor LYTE|BodyArmor|131|3,6|290000000
+8064|Odwalla Protein Shakes|Protein Source|Protein Seekers|2600000,00|Active|2024-03-01|2024-09-30|North America|Odwalla|Odwalla|128|3,5|260000000
+8065|Fairlife Chocolate Indulgence|Indulgent Healthy|Healthy Indulgers|3100000,00|Active|2024-09-01|2024-12-31|Global|Fairlife Chocolate|Fairlife|134|3,7|310000000
+8066|Topo Chico Hard Seltzer|Alcoholic Extension|Legal Drinking Age|4200000,00|Active|2024-04-01|2024-12-31|Americas|Topo Chico Hard Seltzer|Topo Chico|155|4,8|420000000
+8067|AHA Sleep Sparkling|Evening Occasion|Evening Relaxation|1900000,00|Active|2024-08-01|2024-12-31|North America|AHA|AHA|118|3,8|190000000
+8068|Coca-Cola Byte Limited|Tech Collaboration|Tech Enthusiasts|3800000,00|Completed|2024-03-01|2024-04-30|Global|Coca-Cola Byte|Coca-Cola|148|5,5|380000000
+8069|Sprite Zero Sugar Summer|Zero Sugar Summer|Summer Health Seekers|2300000,00|Planning|2024-05-15|2024-08-31|Global|Sprite Zero|Sprite|127|4,2|230000000
+8070|Fanta Mix-Your-Own Flavor|Interactive Experience|Creative Consumers|2700000,00|Active|2024-06-01|2024-09-30|Global|Fanta|Fanta|130|4,9|270000000
+8071|Smartwater Celebrity Endorsement|Celebrity Partnership|Celebrity Followers|4500000,00|Active|2024-01-01|2024-12-31|Global|Smartwater|Smartwater|140|3,9|450000000
+8072|Minute Maid Farm to Bottle|Transparency Story|Transparency Seekers|2500000,00|Active|2024-07-01|2024-11-30|North America|Minute Maid|Minute Maid|124|3,4|250000000
+8073|POWERADE Team Sponsorship|Team Partnership|Sports Team Fans|5100000,00|Active|2024-02-01|2024-12-31|Global|POWERADE|POWERADE|146|4,0|510000000
+8074|Dasani Refill Station|Refill Initiative|Waste-Conscious Consumers|2200000,00|Active|2024-03-15|2024-11-15|Global|Dasani|Dasani|120|2,6|220000000
+8075|Costa Coffee Home Brewing|At-Home Consumption|At-Home Coffee Drinkers|2800000,00|Active|2024-01-01|2024-06-30|Global|Costa Coffee|Costa|129|3,2|280000000
+8076|Monster Energy Drink Music|Music Integration|Music Fans|4600000,00|Active|2024-03-01|2024-12-31|Global|Monster|Monster|144|5,1|460000000
+8077|Simply Farmstand Fresh|Local Sourcing|Local Food Supporters|2400000,00|Active|2024-06-01|2024-10-31|North America|Simply|Simply|125|3,1|240000000
+8078|Gold Peak Unsweetened Pure|Pure Tea Experience|Purists|1800000,00|Active|2024-05-01|2024-09-30|Southern US|Gold Peak|Gold Peak|117|2,6|180000000
+8079|Barq's Float Experience|Dessert Occasion|Dessert Lovers|1600000,00|Active|2024-07-15|2024-09-15|North America|Barq's|Barq's|113|3,3|160000000
+8080|Fairlife School Nutrition|School Program|Schools & Children|3200000,00|Active|2024-08-01|2024-12-31|North America|Fairlife|Fairlife|133|3,0|320000000
+8081|Topo Chico Mineral Benefits|Mineral Health|Mineral Health Seekers|2100000,00|Active|2024-04-01|2024-10-31|Americas|Topo Chico|Topo Chico|122|3,5|210000000
+8082|AHA Mood Enhancement|Functional Benefits|Mood & Focus|2000000,00|Active|2024-02-15|2024-08-15|North America|AHA|AHA|121|4,0|200000000
+8083|Coca-Cola Olympics Sponsorship|Olympic Partnership|Sports Enthusiasts|12000000,00|Active|2024-07-01|2024-08-31|Global|All Products|Coca-Cola|160|6,0|1200000000
+8084|Sprite Transparency Label|Ingredient Transparency|Ingredient-Conscious|2300000,00|Active|2024-03-01|2024-07-31|Global|Sprite|Sprite|125|4,1|230000000
+8085|Fanta Global Youth Council|Youth Empowerment|Global Youth Leaders|2900000,00|Active|2024-05-01|2024-12-31|Global|Fanta|Fanta|128|4,6|290000000
+8086|Smartwater Airport Premium|Travel Premium|Travelers|2600000,00|Active|2024-01-01|2024-12-31|Global|Smartwater|Smartwater|136|3,2|260000000
+8087|Minute Maid Smoothie Bowls|Meal Replacement|Meal Replacement Seekers|2700000,00|Active|2024-04-15|2024-10-15|North America|Minute Maid|Minute Maid|129|3,6|270000000
+8088|POWERADE Recovery Window|Recovery Timing|Athlete Recovery|3400000,00|Active|2024-06-01|2024-11-30|Global|POWERADE|POWERADE|142|3,7|340000000
+8089|Dasani Community Hydration|Community Giving|Community-Minded|2100000,00|Active|2024-03-01|2024-09-30|Global|Dasani|Dasani|119|2,5|210000000
+8090|Costa Coffee Workspace|Workspace Solution|Office Environments|2500000,00|Active|2024-02-01|2024-08-31|Global|Costa Coffee|Costa|127|3,3|250000000
+8091|Monster Ultra Sunrise|Morning Energy|Morning Energy Needs|3100000,00|Active|2024-01-15|2024-10-31|Global|Monster Ultra|Monster|138|4,0|310000000
+8092|Simply Kids Fun Packaging|Kid-Friendly Packaging|Kids & Parents|2200000,00|Active|2024-08-01|2024-12-31|North America|Simply|Simply|124|3,5|220000000
+8093|Honest Tea Community Tea|Garden Projects|Community Gardeners|1700000,00|Active|2024-04-01|2024-10-31|North America|Honest Tea|Honest Tea|121|2,9|170000000
+8094|BodyArmor Natural Colors|No Artificial Colors|Color-Conscious|2400000,00|Active|2024-05-15|2024-11-15|Global|BodyArmor|BodyArmor|130|3,8|240000000
+8095|Odwalla Green Goodness|Green Nutrition|Green Juice Lovers|2300000,00|Active|2024-02-01|2024-07-31|North America|Odwalla|Odwalla|127|3,7|230000000
+8096|Fairlife Senior Nutrition|Senior Health|Senior Consumers|2800000,00|Active|2024-01-01|2024-12-31|North America|Fairlife|Fairlife|132|3,1|280000000
+8097|Topo Chico Mineral Spa|Spa Partnership|Spa-Goers|2000000,00|Active|2024-04-01|2024-10-31|Americas|Topo Chico|Topo Chico|124|3,9|200000000
+8098|AHA Limited Edition Flavors|Limited Run|Flavor Collectors|1800000,00|Active|2024-06-01|2024-08-31|North America|AHA|AHA|122|4,5|180000000
+8099|Coca-Cola Formula Change|Product Improvement|Quality-Focused|4300000,00|Planning|2024-09-01|2024-12-31|Global|Coca-Cola|Coca-Cola|135|3,0|430000000
+8100|Sprite Digital NFT Collectibles|Digital Collectibles|Digital Natives|2900000,00|Active|2024-03-01|2024-06-30|Global|Sprite|Sprite|147|5,3|290000000
