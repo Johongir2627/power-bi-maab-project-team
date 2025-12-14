@@ -1,0 +1,101 @@
+ChannelID|ChannelName|ChannelType|ChannelSegment|CommissionRate|MinimumOrder|DeliveryDays|TargetMargin
+4001|Grocery Retail|Retail|Modern Trade|5,00|1000,00|2|40,00
+4002|Convenience Stores|Retail|Traditional Trade|6,50|500,00|1|45,00
+4003|Food Service|Restaurant|On-Premise|8,00|300,00|1|50,00
+4004|Wholesale Clubs|Wholesale|Cash & Carry|4,00|2500,00|3|35,00
+4005|Vending Machines|Vending|Direct to Consumer|12,00|100,00|7|60,00
+4006|E-commerce|Online|Digital Commerce|7,00|200,00|2|48,00
+4007|Pharmacies|Retail|Health & Wellness|5,50|400,00|2|42,00
+4008|Hypermarkets|Retail|Modern Trade|4,50|2000,00|3|38,00
+4009|Supermarkets|Retail|Modern Trade|5,00|1000,00|2|40,00
+4010|Discount Stores|Retail|Value Retail|4,00|800,00|2|35,00
+4011|Department Stores|Retail|General Merchandise|6,00|600,00|3|45,00
+4012|Specialty Food Stores|Retail|Specialty Retail|7,50|300,00|2|50,00
+4013|Health Food Stores|Retail|Health & Wellness|7,00|250,00|2|48,00
+4014|Organic Markets|Retail|Health & Wellness|7,50|200,00|3|52,00
+4015|Ethnic Grocery Stores|Retail|Traditional Trade|6,00|400,00|2|44,00
+4016|Military Commissaries|Retail|Government|4,00|1500,00|4|30,00
+4017|College Bookstores|Retail|Education|6,00|300,00|3|46,00
+4018|Gas Station C-Stores|Retail|Convenience|6,50|400,00|1|45,00
+4019|Truck Stop Stores|Retail|Travel Retail|6,00|500,00|2|44,00
+4020|Airport Retail|Retail|Travel Retail|8,00|300,00|1|55,00
+4021|Train Station Kiosks|Retail|Travel Retail|7,50|200,00|1|52,00
+4022|Bus Terminal Stores|Retail|Travel Retail|7,00|200,00|1|50,00
+4023|Hospital Gift Shops|Retail|Healthcare|6,50|150,00|1|48,00
+4024|Hotel Gift Shops|Retail|Hospitality|7,00|200,00|1|50,00
+4025|Resort Retail|Retail|Hospitality|8,00|300,00|2|55,00
+4026|Cruise Ship Stores|Retail|Travel Retail|9,00|500,00|14|60,00
+4027|Casino Retail|Retail|Entertainment|8,50|400,00|1|58,00
+4028|Movie Theater Concessions|Retail|Entertainment|10,00|200,00|1|65,00
+4029|Stadium Concessions|Retail|Entertainment|9,00|500,00|1|62,00
+4030|Arena Food Courts|Retail|Entertainment|8,50|400,00|1|58,00
+4031|Theme Park Retail|Retail|Entertainment|8,00|600,00|2|55,00
+4032|Zoo & Aquarium Retail|Retail|Entertainment|7,50|300,00|2|52,00
+4033|Museum Caf?s|Retail|Cultural|7,00|200,00|2|50,00
+4034|Library Caf?s|Retail|Education|6,50|150,00|2|48,00
+4035|Corporate Cafeterias|Food Service|Corporate Dining|7,00|400,00|1|48,00
+4036|School Cafeterias|Food Service|Education|6,00|300,00|1|45,00
+4037|University Dining Halls|Food Service|Education|6,50|500,00|1|47,00
+4038|Hospital Cafeterias|Food Service|Healthcare|6,00|300,00|1|45,00
+4039|Prison Commissaries|Retail|Correctional|5,00|1000,00|4|40,00
+4040|Military Dining Facilities|Food Service|Government|5,50|800,00|3|42,00
+4041|Fast Food Chains|Restaurant|Quick Service|8,50|500,00|1|58,00
+4042|Casual Dining|Restaurant|Sit-Down Dining|8,00|400,00|1|55,00
+4043|Fine Dining|Restaurant|Premium Dining|7,50|300,00|1|52,00
+4044|Coffee Shops|Restaurant|Caf?|9,00|200,00|1|62,00
+4045|Tea Houses|Restaurant|Caf?|8,50|150,00|1|58,00
+4046|Ice Cream Parlors|Restaurant|Dessert|8,00|200,00|1|55,00
+4047|Bakeries|Restaurant|Bakery Caf?|7,50|150,00|1|52,00
+4048|Deli Counters|Food Service|Grocery Deli|6,50|200,00|1|48,00
+4049|Salad Bars|Food Service|Healthy Dining|7,00|150,00|1|50,00
+4050|Smoothie Bars|Food Service|Health Food|8,00|100,00|1|55,00
+4051|Food Trucks|Restaurant|Mobile Food|9,00|100,00|1|62,00
+4052|Street Vendors|Retail|Street Retail|10,00|50,00|7|65,00
+4053|Farmers Markets|Retail|Local Retail|8,00|100,00|7|55,00
+4054|Food Courts|Food Service|Mall Dining|7,50|300,00|1|52,00
+4055|Mall Kiosks|Retail|Shopping Mall|8,50|200,00|1|58,00
+4056|Pop-up Stores|Retail|Temporary Retail|9,00|100,00|1|62,00
+4057|Seasonal Markets|Retail|Temporary Retail|8,00|150,00|7|55,00
+4058|Festival Concessions|Retail|Event Retail|10,00|200,00|1|65,00
+4059|Convention Center Catering|Food Service|Event Catering|8,50|500,00|1|58,00
+4060|Wedding Caterers|Food Service|Event Catering|8,00|300,00|1|55,00
+4061|Catering Companies|Food Service|B2B Catering|7,50|400,00|1|52,00
+4062|Corporate Catering|Food Service|Corporate Events|7,00|500,00|1|50,00
+4063|Event Planners|Food Service|Special Events|8,50|300,00|1|58,00
+4064|Banquet Halls|Food Service|Event Venue|8,00|400,00|1|55,00
+4065|Conference Centers|Food Service|Corporate Events|7,50|300,00|1|52,00
+4066|Cinema Chains|Retail|Entertainment|9,00|400,00|1|62,00
+4067|Bowling Alleys|Retail|Entertainment|8,00|200,00|1|55,00
+4068|Arcades|Retail|Entertainment|8,50|150,00|1|58,00
+4069|Nightclubs|Restaurant|Entertainment|9,00|200,00|1|62,00
+4070|Bars & Pubs|Restaurant|Entertainment|8,50|300,00|1|58,00
+4071|Hotels (Mini-Bars)|Retail|Hospitality|12,00|100,00|7|70,00
+4072|Hotels (Room Service)|Food Service|Hospitality|10,00|200,00|1|65,00
+4073|Resorts (All-Inclusive)|Food Service|Hospitality|9,00|500,00|1|62,00
+4074|Cruise Ships (Bars)|Restaurant|Travel|10,00|400,00|14|65,00
+4075|Cruise Ships (Dining)|Food Service|Travel|9,50|600,00|14|60,00
+4076|Airline Catering|Food Service|Travel|8,00|1000,00|1|55,00
+4077|Railway Catering|Food Service|Travel|7,50|500,00|1|52,00
+4078|Bus Company Catering|Food Service|Travel|7,00|300,00|1|50,00
+4079|Corporate Office Coffee|Food Service|Corporate|8,50|200,00|1|58,00
+4080|Office Pantries|Food Service|Corporate|7,50|150,00|1|52,00
+4081|Coworking Spaces|Food Service|Corporate|8,00|100,00|1|55,00
+4082|Gym & Fitness Centers|Retail|Wellness|7,50|150,00|1|52,00
+4083|Yoga Studios|Retail|Wellness|7,00|100,00|1|50,00
+4084|Spa Retreats|Retail|Wellness|8,00|150,00|1|55,00
+4085|Golf Clubhouses|Retail|Sports|7,50|200,00|1|52,00
+4086|Tennis Clubs|Retail|Sports|7,00|150,00|1|50,00
+4087|Swim Clubs|Retail|Sports|7,00|100,00|1|50,00
+4088|Country Clubs|Retail|Premium|8,00|300,00|1|55,00
+4089|Private Clubs|Retail|Exclusive|7,50|200,00|1|52,00
+4090|Members-Only Stores|Retail|Premium|6,50|500,00|2|48,00
+4091|Luxury Retail|Retail|Premium|6,00|1000,00|3|45,00
+4092|Duty-Free Stores|Retail|Travel Retail|5,00|2000,00|4|40,00
+4093|Export/Import|Wholesale|International|4,50|5000,00|14|38,00
+4094|Food Distributors|Wholesale|B2B Distribution|4,00|3000,00|3|35,00
+4095|Beverage Distributors|Wholesale|B2B Distribution|3,50|4000,00|3|32,00
+4096|Institutional Distributors|Wholesale|B2B|4,00|2000,00|3|35,00
+4097|Cash & Carry Wholesale|Wholesale|Self-Service|3,50|1000,00|2|32,00
+4098|Restaurant Supply|Wholesale|B2B|4,50|1500,00|3|38,00
+4099|Hotel Supply|Wholesale|B2B|4,00|2000,00|3|35,00
+4100|Government Supply|Wholesale|B2G|3,00|5000,00|5|28,00
