@@ -1,0 +1,71 @@
+StoreID|StoreName|StoreType|StoreFormat|Location|RegionID|StoreSize_SqFt|OpeningDate|ManagerID|Status|LastRenovation|NumberOfCheckouts|WeeklyFootfall|AverageBasketValue
+9001|Walmart Supercenter #4521|Supermarket|Hypermarket|Los Angeles|3001|150000|2005-06-15|9501|Active|2019-03-20|30|50000|85,50
+9002|Target Store #1234| Hypermarket|Super Target|Houston|3002|120000|2008-09-22|9502|Active|2020-11-10|25|42000|72,30
+9003|Kroger Marketplace #5678|Grocery|Supermarket|New York|3003|100000|2010-04-18|9503|Active|2018-07-15|22|38000|65,80
+9004|CVS Pharmacy #0567|Drugstore|Pharmacy|Miami|3004|80000|2012-11-30|9504|Active|2021-02-28|8|15000|25,40
+9005|7-Eleven #0890|Convenience|Convenience Store|Chicago|3005|30000|2015-03-12|9505|Active|2022-05-20|4|12000|12,80
+9006|Walmart Supercenter #4522|Supermarket|Hypermarket|Atlanta|3016|145000|2006-08-10|9506|Active|2018-09-15|28|48000|82,40
+9007|Target Store #1235|Hypermarket|Super Target|Dallas|3014|118000|2009-05-25|9507|Active|2021-04-12|24|41000|70,50
+9008|Kroger Marketplace #5679|Grocery|Supermarket|San Francisco|3012|95000|2011-07-18|9508|Active|2019-10-30|20|35000|63,20
+9009|CVS Pharmacy #0568|Drugstore|Pharmacy|Boston|3018|78000|2013-12-05|9509|Active|2020-08-22|7|14000|24,80
+9010|7-Eleven #0891|Convenience|Convenience Store|Seattle|3021|28000|2016-02-14|9510|Active|2021-11-10|3|11000|11,50
+9011|Costco Wholesale #789|Wholesale|Warehouse Club|Los Angeles|3001|180000|2000-03-25|9511|Active|2017-06-18|20|35000|125,00
+9012|Sam's Club #456|Wholesale|Warehouse Club|Houston|3002|160000|2002-11-08|9512|Active|2019-01-15|18|32000|115,00
+9013|Whole Foods Market #123|Grocery|Organic Supermarket|New York|3003|85000|2005-09-12|9513|Active|2020-05-30|16|28000|95,40
+9014|Walgreens #2345|Drugstore|Pharmacy & Convenience|Miami|3004|75000|2007-04-20|9514|Active|2019-08-12|9|18000|32,60
+9015|Circle K #678|Convenience|Gas & Convenience|Chicago|3005|32000|2010-10-05|9515|Active|2022-03-15|5|13000|15,20
+9016|Publix Super Market #901|Grocery|Supermarket|Atlanta|3016|110000|2003-07-30|9516|Active|2018-11-22|23|40000|68,90
+9017|Safeway #345|Supermarket|Traditional Super|Dallas|3014|98000|2006-02-14|9517|Active|2020-09-05|19|33000|60,40
+9018|Trader Joe's #567|Grocery|Specialty Grocery|San Francisco|3012|65000|2008-12-18|9518|Active|2021-06-20|12|22000|45,80
+9019|Rite Aid #890|Drugstore|Pharmacy|Boston|3018|72000|2011-05-22|9519|Active|2019-12-10|8|16000|28,70
+9020|Sheetz #123|Convenience|Gas & Convenience|Seattle|3021|35000|2014-08-08|9520|Active|2022-02-25|6|14000|18,40
+9021|Dollar General #456|Discount|Dollar Store|Denver|3022|15000|2012-03-15|9521|Active|2021-04-18|4|10000|22,50
+9022|Family Dollar #789|Discount|Dollar Store|Phoenix|3023|14000|2013-06-25|9522|Active|2020-07-12|3|9500|21,80
+9023|Dollar Tree #012|Discount|Dollar Store|Las Vegas|3024|16000|2014-09-30|9523|Active|2021-09-05|4|10500|23,10
+9024|ALDI #345|Discount|Hard Discount|Orlando|3011|18000|2010-11-22|9524|Active|2019-05-15|6|16000|35,40
+9025|Lidl #678|Discount|Hard Discount|Philadelphia|3017|20000|2015-04-10|9525|Active|2022-01-20|7|17000|38,20
+9026|Wegmans #901|Grocery|Supermarket|Rochester|3020|135000|2001-12-05|9526|Active|2017-10-12|26|45000|88,70
+9027|HEB #234|Grocery|Supermarket|San Antonio|3014|125000|2004-05-18|9527|Active|2019-03-30|24|42000|76,90
+9028|Meijer #567|Supermarket|Hypermarket|Detroit|3019|155000|2007-08-12|9528|Active|2020-12-05|27|46000|81,50
+9029|Hy-Vee #890|Grocery|Supermarket|Des Moines|3028|105000|2009-10-28|9529|Active|2018-06-20|21|37000|69,80
+9030|Piggly Wiggly #123|Grocery|Traditional Grocery|Charleston|3030|55000|2011-02-14|9530|Active|2021-08-15|10|19000|42,30
+9031|Giant Eagle #456|Supermarket|Supermarket|Pittsburgh|3017|95000|2013-07-22|9531|Active|2020-04-10|18|34000|58,60
+9032|Stop & Shop #789|Grocery|Supermarket|Boston|3018|88000|2015-11-05|9532|Active|2022-07-18|16|30000|52,40
+9033|Food Lion #012|Grocery|Supermarket|Charlotte|3030|75000|2018-03-30|9533|Active|2023-01-15|14|26000|47,80
+9034|Harris Teeter #345|Grocery|Supermarket|Raleigh|3030|92000|2016-06-12|9534|Active|2021-11-30|19|35000|61,70
+9035|Vons #678|Supermarket|Supermarket|San Diego|3001|85000|2014-09-18|9535|Active|2020-10-25|15|28000|49,50
+9036|Albertsons #901|Supermarket|Supermarket|Boise|3022|96000|2012-12-08|9536|Active|2019-07-20|17|31000|56,30
+9037|Smith's #234|Grocery|Supermarket|Salt Lake City|3022|82000|2017-04-25|9537|Active|2022-04-12|13|24000|44,90
+9038|Fred Meyer #567|Hypermarket|Supercenter|Portland|3029|140000|2008-01-15|9538|Active|2020-03-22|25|43000|78,60
+9039|King Soopers #890|Grocery|Supermarket|Denver|3022|89000|2010-07-30|9539|Active|2021-05-08|16|29000|53,10
+9040|QFC #123|Grocery|Supermarket|Seattle|3021|68000|2013-10-12|9540|Active|2022-09-15|12|21000|39,80
+9041|Tesco Extra #456|Hypermarket|Hypermarket|London|3009|145000|2005-02-28|9541|Active|2019-06-25|28|47000|79,20
+9042|Sainsbury's Superstore #789|Supermarket|Superstore|Manchester|3044|120000|2007-09-14|9542|Active|2020-08-30|24|41000|68,90
+9043|Asda Supercentre #012|Hypermarket|Supercentre|Birmingham|3045|155000|2009-12-20|9543|Active|2021-12-15|29|52000|85,60
+9044|Morrisons #345|Supermarket|Supermarket|Leeds|3044|98000|2011-05-25|9544|Active|2019-10-05|20|35000|61,40
+9045|Waitrose #678|Supermarket|Supermarket|London|3009|85000|2013-08-18|9545|Active|2022-03-10|18|32000|72,50
+9046|M&S Simply Food #901|Convenience|Food Hall|London|3009|50000|2016-11-30|9546|Active|2023-02-22|10|22000|48,60
+9047|Co-op Food #234|Convenience|Convenience Store|Manchester|3044|35000|2018-04-15|9547|Active|2021-07-08|6|15000|28,40
+9048|Boots #567|Pharmacy|Pharmacy & Health|London|3009|25000|2014-02-10|9548|Active|2020-05-20|5|18000|34,20
+9049|Superdrug #890|Health & Beauty|Health Store|London|3009|22000|2017-07-25|9549|Active|2022-11-12|4|16000|29,80
+9050|Carrefour Hypermarket #123|Hypermarket|Hypermarket|Paris|3051|160000|2003-04-12|9550|Active|2018-09-18|30|55000|89,70
+9051|Carrefour Market #456|Supermarket|Supermarket|Paris|3051|95000|2006-07-30|9551|Active|2021-03-25|21|38000|65,20
+9052|Carrefour Express #789|Convenience|Convenience Store|Paris|3051|30000|2009-10-05|9552|Active|2022-06-15|5|14000|22,40
+9053|Auchan #012|Hypermarket|Hypermarket|Lille|3051|145000|2005-11-18|9553|Active|2019-08-22|27|49000|82,10
+9054|Leclerc #345|Hypermarket|Hypermarket|Rennes|3051|135000|2008-03-22|9554|Active|2020-12-08|25|45000|76,80
+9055|Intermarch #678|Supermarket|Supermarket|Marseille|3052|105000|2010-06-15|9555|Active|2022-04-30|22|40000|71,30
+9056|Casino #901|Supermarket|Supermarket|Lyon|3053|88000|2012-09-28|9556|Active|2019-11-15|19|36000|63,70
+9057|Monoprix #234|Supermarket|Department Store|Paris|3051|65000|2015-01-20|9557|Active|2021-09-10|14|28000|58,90
+9058|Fnac #567|Electronics|Electronics Store|Paris|3051|45000|2017-04-05|9558|Active|2023-01-18|8|12000|95,40
+9059|Darty #890|Electronics|Electronics Store|Paris|3051|42000|2018-08-12|9559|Active|2022-08-25|7|11000|87,60
+9060|E.Leclerc Drive #123|E-commerce|Pickup Point|Paris|3051|20000|2020-02-28|9560|Active|2023-06-10|3|5000|68,30
+9061|Rewe Center #456|Hypermarket|Hypermarket|Berlin|3046|140000|2004-08-15|9561|Active|2019-05-30|26|48000|84,20
+9062|Edeka Center #789|Supermarket|Supermarket|Hamburg|3050|125000|2007-01-22|9562|Active|2021-02-14|24|44000|77,60
+9063|Lidl #012|Discount|Hard Discount|Munich|3010|20000|2009-04-18|9563|Active|2022-07-08|8|19000|41,50
+9064|ALDI Nord #345|Discount|Hard Discount|D?sseldorf|3046|22000|2011-07-30|9564|Active|2020-11-22|9|21000|43,80
+9065|Kaufland #678|Hypermarket|Hypermarket|Stuttgart|3047|155000|2013-10-12|9565|Active|2022-01-18|28|51000|88,90
+9066|Netto Marken-Discount #901|Discount|Discount Store|Hannover|3048|18000|2016-03-25|9566|Active|2023-04-05|7|17000|38,40
+9067|Penny Markt #234|Discount|Discount Store|Cologne|3046|19000|2018-06-08|9567|Active|2021-12-30|8|18000|39,70
+9068|DM Drogerie Markt #567|Health & Beauty|Drugstore|Munich|3010|15000|2015-09-14|9568|Active|2020-08-15|6|20000|32,60
+9069|Rossmann #890|Health & Beauty|Drugstore|Berlin|3046|14000|2017-12-20|9569|Active|2022-10-22|5|19000|30,80
+9070|Real - #123|Hypermarket|Hypermarket|Essen|3046|135000|2006-05-12|9570|Active|2021-06-30|25|46000|81,40
