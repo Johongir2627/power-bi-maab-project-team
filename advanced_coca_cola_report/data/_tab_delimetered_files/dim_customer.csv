@@ -1,0 +1,201 @@
+CustomerID|RetailerName|CustomerType|CustomerSegment|RegionID|AccountManager|CreditLimit|CustomerSince|PaymentTerms|Status
+2001|Walmart|Hypermarket|Global Account|3001|John Smith|2500000,00|2000-01-15|Net 45|Active
+2002|Target|Hypermarket|Global Account|3002|Sarah Johnson|1500000,00|2002-05-20|Net 30|Active
+2003|Kroger|Supermarket|National Account|3003|Michael Brown|800000,00|1998-08-10|Net 30|Active
+2004|CVS Pharmacy|Pharmacy|National Account|3004|Emily Davis|600000,00|2001-03-25|Net 30|Active
+2005|McDonald's|Restaurant|Strategic Partner|3005|David Wilson|1200000,00|1995-06-05|Net 60|Active
+2006|7-Eleven|Convenience|National Account|3006|Jennifer Miller|500000,00|1999-11-12|Net 30|Active
+2007|Costco|Wholesale|Global Account|3007|Robert Taylor|1800000,00|2003-07-30|Net 45|Active
+2008|Walgreens|Pharmacy|National Account|3008|Lisa Anderson|700000,00|2000-09-18|Net 30|Active
+2009|Starbucks|Restaurant|Strategic Partner|3009|Thomas Thomas|1000000,00|2001-04-22|Net 60|Active
+2010|Subway|Restaurant|Strategic Partner|3010|Karen Jackson|400000,00|2004-12-05|Net 45|Active
+2011|Safeway|Supermarket|National Account|3001|James Wilson|550000,00|1997-02-14|Net 30|Active
+2012|Publix|Supermarket|National Account|3004|Patricia Moore|650000,00|1999-09-09|Net 30|Active
+2013|Albertsons|Supermarket|National Account|3005|Christopher Taylor|600000,00|2000-06-30|Net 30|Active
+2014|Whole Foods|Supermarket|National Account|3002|Barbara Anderson|500000,00|2003-08-15|Net 30|Active
+2015|Trader Joe's|Supermarket|National Account|3007|Daniel Thomas|450000,00|2005-11-20|Net 30|Active
+2016|Dollar General|Discount Store|National Account|3003|Maria Jackson|350000,00|2006-03-12|Net 30|Active
+2017|Dollar Tree|Discount Store|National Account|3006|Paul White|300000,00|2008-07-25|Net 30|Active
+2018|Family Dollar|Discount Store|National Account|3008|Mark Harris|320000,00|2009-01-10|Net 30|Active
+2019|Best Buy|Electronics|Regional Account|3002|Susan Martin|250000,00|2010-05-05|Net 30|Active
+2020|Home Depot|Home Improvement|National Account|3004|Joseph Thompson|750000,00|2002-09-18|Net 45|Active
+2021|Lowes|Home Improvement|National Account|3005|Richard Garcia|700000,00|2003-04-22|Net 45|Active
+2022|Burger King|Restaurant|Strategic Partner|3006|Charles Martinez|350000,00|1998-08-30|Net 60|Active
+2023|Wendy's|Restaurant|Strategic Partner|3007|Patricia Robinson|300000,00|1999-03-14|Net 60|Active
+2024|Taco Bell|Restaurant|Strategic Partner|3008|Christopher Clark|400000,00|2000-11-08|Net 60|Active
+2025|KFC|Restaurant|Strategic Partner|3009|Jessica Rodriguez|450000,00|1997-05-19|Net 60|Active
+2026|Pizza Hut|Restaurant|Strategic Partner|3010|Kevin Lewis|500000,00|1996-12-03|Net 60|Active
+2027|Domino's Pizza|Restaurant|Strategic Partner|3001|Brian Lee|300000,00|2001-07-28|Net 45|Active
+2028|Cinemark|Entertainment|Regional Account|3002|Nancy Walker|150000,00|2004-02-15|Net 30|Active
+2029|AMC Theatres|Entertainment|Regional Account|3003|Betty Hall|200000,00|2003-10-10|Net 30|Active
+2030|Regal Cinemas|Entertainment|Regional Account|3004|George Allen|180000,00|2005-06-20|Net 30|Active
+2031|Marriott Hotels|Hospitality|Strategic Partner|3005|Donna Young|800000,00|2000-04-05|Net 60|Active
+2032|Hilton Hotels|Hospitality|Strategic Partner|3006|Ronald King|850000,00|1999-11-30|Net 60|Active
+2033|Holiday Inn|Hospitality|Strategic Partner|3007|Edward Wright|600000,00|2001-09-14|Net 60|Active
+2034|Delta Air Lines|Airline|Strategic Partner|3008|Lisa Scott|750000,00|2002-12-18|Net 60|Active
+2035|American Airlines|Airline|Strategic Partner|3009|Karen Green|700000,00|2003-08-22|Net 60|Active
+2036|United Airlines|Airline|Strategic Partner|3010|Steven Adams|650000,00|2004-05-30|Net 60|Active
+2037|ExxonMobil|Gas Station|National Account|3001|Jeffrey Baker|400000,00|1998-01-25|Net 30|Active
+2038|Shell|Gas Station|National Account|3002|Sharon Nelson|450000,00|1999-07-08|Net 30|Active
+2039|Chevron|Gas Station|National Account|3003|Cynthia Carter|380000,00|2000-03-12|Net 30|Active
+2040|BP|Gas Station|National Account|3004|Joshua Mitchell|420000,00|2001-10-05|Net 30|Active
+2041|Circle K|Convenience|National Account|3005|Melissa Perez|350000,00|2002-11-20|Net 30|Active
+2042|Sheetz|Convenience|Regional Account|3006|Scott Roberts|200000,00|2005-04-15|Net 30|Active
+2043|Wawa|Convenience|Regional Account|3007|Frank Turner|250000,00|2006-08-28|Net 30|Active
+2044|QuikTrip|Convenience|Regional Account|3008|Rebecca Phillips|220000,00|2007-02-10|Net 30|Active
+2045|Cumberland Farms|Convenience|Regional Account|3009|Gary Campbell|180000,00|2008-06-05|Net 30|Active
+2046|Sam's Club|Wholesale|National Account|3010|Shirley Parker|900000,00|2003-09-12|Net 45|Active
+2047|BJ's Wholesale|Wholesale|Regional Account|3001|Eric Evans|300000,00|2005-12-20|Net 30|Active
+2048|Winn-Dixie|Supermarket|Regional Account|3002|Stephen Edwards|220000,00|2006-03-18|Net 30|Active
+2049|H-E-B|Supermarket|Regional Account|3003|Donna Collins|280000,00|2004-07-22|Net 30|Active
+2050|Wegmans|Supermarket|Regional Account|3004|Ruth Stewart|320000,00|2003-10-30|Net 30|Active
+2051|Meijer|Supermarket|Regional Account|3005|Brenda Sanchez|350000,00|2002-05-15|Net 30|Active
+2052|Hy-Vee|Supermarket|Regional Account|3006|Ashley Morris|300000,00|2005-08-08|Net 30|Active
+2053|Food Lion|Supermarket|Regional Account|3007|Benjamin Rogers|250000,00|2006-11-12|Net 30|Active
+2054|Harris Teeter|Supermarket|Regional Account|3008|Kathleen Reed|270000,00|2007-04-25|Net 30|Active
+2055|Giant Eagle|Supermarket|Regional Account|3009|Margaret Cook|230000,00|2008-09-10|Net 30|Active
+2056|Stop & Shop|Supermarket|Regional Account|3010|Kenneth Morgan|290000,00|2009-02-14|Net 30|Active
+2057|Speedway|Convenience|National Account|3001|Samantha Bell|300000,00|2004-06-20|Net 30|Active
+2058|Love's Travel Stops|Travel Center|Regional Account|3002|Debra Murphy|180000,00|2007-08-15|Net 30|Active
+2059|TA/Petro|Travel Center|Regional Account|3003|Raymond Bailey|200000,00|2008-12-05|Net 30|Active
+2060|Pilot Flying J|Travel Center|National Account|3004|Carolyn Cooper|400000,00|2006-03-30|Net 30|Active
+2061|Rite Aid|Pharmacy|National Account|3005|Jason Richardson|280000,00|2005-09-18|Net 30|Active
+2062|The Vitamin Shoppe|Specialty Retail|Local Account|3006|Ryan Cox|80000,00|2012-04-22|Net 15|Active
+2063|GNC|Specialty Retail|Local Account|3007|Pamela Howard|75000,00|2013-07-15|Net 15|Active
+2064|Panera Bread|Restaurant|Strategic Partner|3008|Nicole Ward|200000,00|2009-05-20|Net 45|Active
+2065|Chipotle|Restaurant|Strategic Partner|3009|Adam Torres|250000,00|2010-11-08|Net 45|Active
+2066|Chick-fil-A|Restaurant|Strategic Partner|3010|Jeremy Peterson|300000,00|2008-03-14|Net 60|Active
+2067|Arby's|Restaurant|Strategic Partner|3001|Heather Gray|180000,00|2011-06-30|Net 45|Active
+2068|Jack in the Box|Restaurant|Regional Account|3002|Stephen Ramirez|150000,00|2012-09-25|Net 30|Active
+2069|Sonic Drive-In|Restaurant|Regional Account|3003|Emily James|140000,00|2013-02-18|Net 30|Active
+2070|Dunkin'|Restaurant|Strategic Partner|3004|Lauren Watson|350000,00|2007-08-12|Net 60|Active
+2071|Papa John's|Restaurant|Strategic Partner|3005|Brandon Brooks|220000,00|2009-12-05|Net 45|Active
+2072|Little Caesars|Restaurant|Strategic Partner|3006|Stephanie Kelly|200000,00|2010-04-20|Net 45|Active
+2073|Popeyes|Restaurant|Strategic Partner|3007|Gregory Sanders|170000,00|2011-10-15|Net 45|Active
+2074|Hardee's|Restaurant|Regional Account|3008|Tyler Price|120000,00|2013-03-08|Net 30|Active
+2075|Carl's Jr,|Restaurant|Regional Account|3009|Brittany Bennett|110000,00|2014-07-22|Net 30|Active
+2076|Five Guys|Restaurant|Regional Account|3010|Rachel Wood|130000,00|2015-01-30|Net 30|Active
+2077|Shake Shack|Restaurant|Local Account|3001|Katherine Barnes|80000,00|2016-05-15|Net 15|Active
+2078|In-N-Out Burger|Restaurant|Regional Account|3002|Benjamin Ross|160000,00|2014-08-10|Net 30|Active
+2079|Whataburger|Restaurant|Regional Account|3003|Victoria Henderson|140000,00|2015-11-25|Net 30|Active
+2080|White Castle|Restaurant|Regional Account|3004|Gabriel Coleman|120000,00|2013-09-18|Net 30|Active
+2081|University of California|Education|Institutional Account|3005|Emma Jenkins|300000,00|2010-02-28|Net 60|Active
+2082|Stanford University|Education|Institutional Account|3006|Noah Perry|280000,00|2011-06-15|Net 60|Active
+2083|Harvard University|Education|Institutional Account|3007|Olivia Powell|320000,00|2009-09-05|Net 60|Active
+2084|Yale University|Education|Institutional Account|3008|Mason Long|250000,00|2012-04-20|Net 60|Active
+2085|Google|Corporate|Strategic Partner|3009|Ava Flores|500000,00|2008-11-12|Net 60|Active
+2086|Apple|Corporate|Strategic Partner|3010|William Washington|550000,00|2007-12-18|Net 60|Active
+2087|Microsoft|Corporate|Strategic Partner|3001|Isabella Butler|480000,00|2009-05-30|Net 60|Active
+2088|Amazon|Corporate|Strategic Partner|3002|Sophia Simmons|600000,00|2006-08-25|Net 60|Active
+2089|FedEx Office|Corporate|Local Account|3003|James Foster|120000,00|2014-03-14|Net 30|Active
+2090|Staples|Office Supply|Regional Account|3004|Alexander Gonzales|180000,00|2011-10-08|Net 30|Active
+2091|Office Depot|Office Supply|Regional Account|3005|Charlotte Bryant|160000,00|2012-07-22|Net 30|Active
+2092|Barnes & Noble|Bookstore|Regional Account|3006|Daniel Alexander|140000,00|2013-01-15|Net 30|Active
+2093|Best Western|Hospitality|Strategic Partner|3007|Avery Russell|300000,00|2010-04-05|Net 60|Active
+2094|La Quinta Inn|Hospitality|Regional Account|3008|Harper Griffin|150000,00|2012-08-18|Net 30|Active
+2095|Red Roof Inn|Hospitality|Regional Account|3009|Michael Diaz|130000,00|2013-12-10|Net 30|Active
+2096|Comfort Inn|Hospitality|Regional Account|3010|Elizabeth Hayes|140000,00|2014-05-25|Net 30|Active
+2097|24 Hour Fitness|Fitness|Local Account|3001|Matthew Myers|90000,00|2015-09-30|Net 15|Active
+2098|LA Fitness|Fitness|Regional Account|3002|Ella Ford|110000,00|2016-02-14|Net 30|Active
+2099|Planet Fitness|Fitness|Regional Account|3003|Logan Hamilton|100000,00|2017-07-08|Net 30|Active
+2100|Gold's Gym|Fitness|Local Account|3004|Evelyn Graham|85000,00|2018-11-20|Net 15|Active
+2101|Tesco|Supermarket|Global Account|3009|Henry Spencer|1200000,00|1995-03-15|Net 45|Active
+2102|Carrefour|Hypermarket|Global Account|3010|Sophie Reynolds|1400000,00|1996-07-20|Net 45|Active
+2103|Aldi|Discount Store|Global Account|3001|Lucas Bennett|900000,00|2000-09-05|Net 45|Active
+2104|Lidl|Discount Store|Global Account|3002|Ella Morgan|850000,00|2002-11-30|Net 45|Active
+2105|Sainsbury's|Supermarket|National Account|3003|Oliver Cox|550000,00|1998-04-18|Net 30|Active
+2106|Asda|Supermarket|National Account|3004|Amelia Hughes|600000,00|1999-12-22|Net 30|Active
+2107|Morrisons|Supermarket|National Account|3005|Jack Ward|500000,00|2001-06-10|Net 30|Active
+2108|Waitrose|Supermarket|National Account|3006|Isla Turner|480000,00|2003-02-28|Net 30|Active
+2109|M&S Food|Supermarket|National Account|3007|Charlie Parker|520000,00|2004-08-15|Net 30|Active
+2110|Iceland Foods|Supermarket|Regional Account|3008|Jacob Cooper|280000,00|2006-10-05|Net 30|Active
+2111|Boots|Pharmacy|National Account|3009|Sophia Bailey|350000,00|2005-05-20|Net 30|Active
+2112|Superdrug|Pharmacy|Regional Account|3010|Mia Carter|200000,00|2007-09-12|Net 30|Active
+2113|Pret A Manger|Restaurant|Strategic Partner|3001|Thomas King|220000,00|2010-03-25|Net 45|Active
+2114|Costa Coffee|Restaurant|Strategic Partner|3002|Emily Scott|250000,00|2011-07-18|Net 45|Active
+2115|Greggs|Restaurant|Strategic Partner|3003|James Green|180000,00|2012-11-05|Net 45|Active
+2116|WHSmith|Newsagent|Regional Account|3004|Charlotte Adams|120000,00|2013-04-30|Net 30|Active
+2117|John Lewis|Department Store|National Account|3005|Daniel Nelson|400000,00|2008-01-15|Net 45|Active
+2118|Debenhams|Department Store|National Account|3006|Chloe Mitchell|350000,00|2009-06-20|Net 45|Active
+2119|Argos|Retail|National Account|3007|George Roberts|300000,00|2010-10-08|Net 45|Active
+2120|Currys PC World|Electronics|National Account|3008|Harry Phillips|320000,00|2012-02-14|Net 45|Active
+2121|Amazon UK|E-commerce|Global Account|3009|Scarlett Campbell|800000,00|2011-05-30|Net 60|Active
+2122|ASOS|E-commerce|Regional Account|3010|Henry Parker|150000,00|2014-08-25|Net 45|Active
+2123|Next|Clothing|National Account|3001|Amber Evans|280000,00|2013-12-18|Net 45|Active
+2124|Primark|Clothing|National Account|3002|Lily Edwards|320000,00|2015-03-22|Net 45|Active
+2125|H&M|Clothing|Global Account|3003|Mason Collins|500000,00|2010-07-05|Net 60|Active
+2126|Zara|Clothing|Global Account|3004|William Stewart|550000,00|2009-09-15|Net 60|Active
+2127|Loblaws|Supermarket|National Account|3005|Ava Sanchez|600000,00|2002-04-10|Net 45|Active
+2128|Sobeys|Supermarket|National Account|3006|Noah Morris|550000,00|2003-11-25|Net 45|Active
+2129|Metro|Supermarket|National Account|3007|Olivia Rogers|500000,00|2004-06-18|Net 45|Active
+2130|Shoppers Drug Mart|Pharmacy|National Account|3008|Emma Reed|450000,00|2005-09-30|Net 45|Active
+2131|Tim Hortons|Restaurant|Strategic Partner|3009|Liam Cook|350000,00|1999-12-05|Net 60|Active
+2132|Canadian Tire|Retail|National Account|3010|Sophia Morgan|400000,00|2001-03-20|Net 45|Active
+2133|Woolworths|Supermarket|Global Account|3001|James Bell|900000,00|1997-08-15|Net 60|Active
+2134|Coles|Supermarket|Global Account|3002|Isabella Murphy|850000,00|1998-10-22|Net 60|Active
+2135|Aldi Australia|Discount Store|National Account|3003|Mason Bailey|300000,00|2005-02-28|Net 45|Active
+2136|IGA|Supermarket|Regional Account|3004|Charlotte Cooper|220000,00|2006-07-12|Net 30|Active
+2137|7-Eleven Australia|Convenience|National Account|3005|Benjamin Richardson|250000,00|2007-05-18|Net 30|Active
+2138|Caltex|Petrol Station|National Account|3006|Emily Cox|280000,00|2008-09-25|Net 30|Active
+2139|BP Australia|Petrol Station|National Account|3007|Daniel Howard|300000,00|2009-11-08|Net 30|Active
+2140|Woolworths Petrol|Petrol Station|National Account|3008|Matthew Ward|260000,00|2010-04-15|Net 30|Active
+2141|Air New Zealand|Airline|Strategic Partner|3009|Olivia Torres|400000,00|2011-08-20|Net 60|Active
+2142|Qantas|Airline|Strategic Partner|3010|William Peterson|450000,00|2012-01-30|Net 60|Active
+2143|Shangri-La Hotels|Hospitality|Strategic Partner|3001|Sophia Gray|350000,00|2013-06-10|Net 60|Active
+2144|Marina Bay Sands|Hospitality|Strategic Partner|3002|James Walker|400000,00|2014-10-05|Net 60|Active
+2145|AEON|Hypermarket|Global Account|3003|Emma Hall|600000,00|2000-12-18|Net 60|Active
+2146|Don Quijote|Discount Store|National Account|3004|Noah Allen|280000,00|2003-05-22|Net 45|Active
+2147|FamilyMart|Convenience|National Account|3005|Olivia Young|220000,00|2004-09-15|Net 30|Active
+2148|7-Eleven Japan|Convenience|National Account|3006|Liam King|250000,00|2005-07-30|Net 30|Active
+2149|Lawson|Convenience|National Account|3007|Sophia Wright|230000,00|2006-03-12|Net 30|Active
+2150|Ministop|Convenience|Regional Account|3008|James Scott|150000,00|2008-01-25|Net 30|Active
+2151|Popeyes Louisiana Kitchen|Restaurant|Strategic Partner|3009|Isabella Green|180000,00|2010-11-08|Net 45|Active
+2152|Denny's|Restaurant|Strategic Partner|3010|Mason Adams|160000,00|2012-04-20|Net 45|Active
+2153|IHOP|Restaurant|Strategic Partner|3001|Charlotte Baker|170000,00|2013-08-15|Net 45|Active
+2154|Applebee's|Restaurant|Strategic Partner|3002|Benjamin Nelson|190000,00|2014-12-10|Net 45|Active
+2155|Olive Garden|Restaurant|Strategic Partner|3003|Emily Carter|200000,00|2015-06-25|Net 45|Active
+2156|Red Lobster|Restaurant|Strategic Partner|3004|Daniel Mitchell|180000,00|2016-02-28|Net 45|Active
+2157|Outback Steakhouse|Restaurant|Strategic Partner|3005|Matthew Perez|170000,00|2017-09-15|Net 45|Active
+2158|Texas Roadhouse|Restaurant|Strategic Partner|3006|Olivia Roberts|160000,00|2018-11-20|Net 45|Active
+2159|Cheddar's Scratch Kitchen|Restaurant|Regional Account|3007|Noah Turner|120000,00|2019-05-10|Net 30|Active
+2160|Cheesecake Factory|Restaurant|Strategic Partner|3008|Sophia Phillips|220000,00|2016-07-22|Net 45|Active
+2161|PF Chang's|Restaurant|Regional Account|3009|James Campbell|130000,00|2017-10-05|Net 30|Active
+2162|Buffalo Wild Wings|Restaurant|Strategic Partner|3010|Emma Parker|190000,00|2015-12-18|Net 45|Active
+2163|Wingstop|Restaurant|Regional Account|3001|Liam Evans|110000,00|2018-03-30|Net 30|Active
+2164|Raising Cane's|Restaurant|Regional Account|3002|Isabella Edwards|100000,00|2019-06-15|Net 30|Active
+2165|Zaxby's|Restaurant|Regional Account|3003|Mason Collins|95000,00|2017-08-20|Net 30|Active
+2166|Culver's|Restaurant|Regional Account|3004|Charlotte Stewart|105000,00|2016-11-25|Net 30|Active
+2167|Steak 'n Shake|Restaurant|Regional Account|3005|Benjamin Sanchez|90000,00|2018-02-10|Net 30|Active
+2168|Whataburger|Restaurant|Regional Account|3006|Emily Morris|115000,00|2017-05-15|Net 30|Active
+2169|In-N-Out Burger|Restaurant|Regional Account|3007|Daniel Rogers|125000,00|2016-09-30|Net 30|Active
+2170|Shake Shack|Restaurant|Regional Account|3008|Matthew Reed|135000,00|2019-01-20|Net 30|Active
+2171|Five Guys|Restaurant|Regional Account|3009|Olivia Cook|140000,00|2018-04-05|Net 30|Active
+2172|Habit Burger Grill|Restaurant|Local Account|3010|Noah Morgan|80000,00|2019-07-10|Net 15|Active
+2173|Smashburger|Restaurant|Local Account|3001|Sophia Bell|75000,00|2018-10-15|Net 15|Active
+2174|John's Grocery Store|Independent Grocery|Local Account|3002|James Murphy|50000,00|2020-01-20|Net 15|Active
+2175|Family Corner Store|Independent Grocery|Local Account|3003|Emma Bailey|45000,00|2020-03-25|Net 15|Active
+2176|Quick Mart|Independent Convenience|Local Account|3004|Liam Cooper|40000,00|2020-05-30|Net 15|Active
+2177|Neighborhood Market|Independent Grocery|Local Account|3005|Isabella Richardson|55000,00|2019-09-05|Net 15|Active
+2178|Corner Deli|Independent Deli|Local Account|3006|Mason Cox|35000,00|2020-02-10|Net 15|Active
+2179|Local Pharmacy|Independent Pharmacy|Local Account|3007|Charlotte Howard|60000,00|2019-11-15|Net 15|Active
+2180|Community Center|Catering|Institutional Account|3008|Benjamin Ward|70000,00|2020-04-20|Net 30|Active
+2181|School District #45|Education|Institutional Account|3009|Emily Torres|120000,00|2018-08-25|Net 60|Active
+2182|City Hospital|Healthcare|Institutional Account|3010|Daniel Peterson|150000,00|2017-12-30|Net 60|Active
+2183|Corporate Campus A|Corporate|Strategic Partner|3001|Matthew Gray|200000,00|2019-06-05|Net 60|Active
+2184|Tech Park B|Corporate|Strategic Partner|3002|Olivia Walker|180000,00|2020-09-10|Net 60|Active
+2185|Government Office|Government|Institutional Account|3003|Noah Hall|220000,00|2018-01-15|Net 60|Active
+2186|Military Base|Government|Institutional Account|3004|Sophia Allen|250000,00|2017-03-20|Net 60|Active
+2187|Prison Facility|Government|Institutional Account|3005|James Young|80000,00|2019-05-25|Net 60|Active
+2188|Stadium Complex|Entertainment|Institutional Account|3006|Emma King|300000,00|2016-07-30|Net 60|Active
+2189|Convention Center|Entertainment|Institutional Account|3007|Liam Wright|280000,00|2017-10-05|Net 60|Active
+2190|Amusement Park|Entertainment|Institutional Account|3008|Isabella Scott|350000,00|2015-12-10|Net 60|Active
+2191|Zoo & Aquarium|Entertainment|Institutional Account|3009|Mason Green|180000,00|2018-02-15|Net 60|Active
+2192|Museum Complex|Entertainment|Institutional Account|3010|Charlotte Adams|160000,00|2019-04-20|Net 60|Active
+2193|Cruise Line A|Travel|Strategic Partner|3001|Benjamin Baker|400000,00|2016-06-25|Net 60|Active
+2194|Cruise Line B|Travel|Strategic Partner|3002|Emily Nelson|380000,00|2017-08-30|Net 60|Active
+2195|Railway Company|Transportation|Strategic Partner|3003|Daniel Carter|220000,00|2018-11-05|Net 60|Active
+2196|Bus Transit System|Transportation|Institutional Account|3004|Matthew Mitchell|150000,00|2019-01-10|Net 60|Active
+2197|Airport Terminal|Transportation|Institutional Account|3005|Olivia Perez|280000,00|2017-03-15|Net 60|Active
+2198|Train Station|Transportation|Institutional Account|3006|Noah Roberts|120000,00|2018-05-20|Net 60|Active
+2199|Shipping Port|Transportation|Institutional Account|3007|Sophia Turner|100000,00|2019-07-25|Net 60|Active
+2200|Ferry Service|Transportation|Regional Account|3008|James Phillips|90000,00|2020-09-30|Net 30|Active
