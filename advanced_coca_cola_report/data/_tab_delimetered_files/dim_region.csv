@@ -1,0 +1,301 @@
+RegionID,Country,Region,City,SalesTerritory,Population,GDP_Billion,ClimateZone
+3001,USA,California,Los Angeles,West,38490000,3500,Mediterranean
+3002,USA,Texas,Houston,South,29500000,2100,Subtropical
+3003,USA,New York,New York,Northeast,19500000,1900,Continental
+3004,USA,Florida,Miami,Southeast,21700000,1200,Tropical
+3005,USA,Illinois,Chicago,Midwest,12600000,900,Continental
+3006,Canada,Ontario,Toronto,Canada East,14700000,850,Continental
+3007,Canada,British Columbia,Vancouver,Canada West,5100000,300,Oceanic
+3008,Mexico,Mexico City,Mexico City,Mexico Central,12890000,450,Subtropical
+3009,UK,England,London,EMEA North,55980000,3100,Oceanic
+3010,Germany,Bavaria,Munich,EMEA Central,83200000,4200,Continental
+3011,USA,Florida,Orlando,Southeast,21700000,1200,Tropical
+3012,USA,California,San Francisco,West,38490000,3500,Mediterranean
+3013,USA,California,San Diego,West,38490000,3500,Mediterranean
+3014,USA,Texas,Dallas,South,29500000,2100,Subtropical
+3015,USA,Texas,Austin,South,29500000,2100,Subtropical
+3016,USA,Georgia,Atlanta,Southeast,10700000,650,Subtropical
+3017,USA,Pennsylvania,Philadelphia,Northeast,12900000,850,Continental
+3018,USA,Massachusetts,Boston,Northeast,7020000,600,Continental
+3019,USA,Michigan,Detroit,Midwest,10000000,550,Continental
+3020,USA,Ohio,Columbus,Midwest,11700000,750,Continental
+3021,USA,Washington,Seattle,West,7610000,650,Oceanic
+3022,USA,Colorado,Denver,West,5800000,430,Continental
+3023,USA,Arizona,Phoenix,West,7280000,400,Desert
+3024,USA,Nevada,Las Vegas,West,3100000,200,Desert
+3025,USA,Tennessee,Nashville,Southeast,6910000,400,Subtropical
+3026,USA,Missouri,St. Louis,Midwest,6150000,350,Continental
+3027,USA,Louisiana,New Orleans,South,4650000,250,Subtropical
+3028,USA,Minnesota,Minneapolis,Midwest,5700000,400,Continental
+3029,USA,Oregon,Portland,West,4240000,270,Oceanic
+3030,USA,North Carolina,Charlotte,Southeast,10500000,600,Subtropical
+3031,Canada,Quebec,Montreal,Canada East,8590000,490,Continental
+3032,Canada,Alberta,Calgary,Canada West,4410000,350,Continental
+3033,Canada,Manitoba,Winnipeg,Canada West,1380000,80,Continental
+3034,Canada,Nova Scotia,Halifax,Canada East,979000,45,Oceanic
+3035,Canada,Saskatchewan,Regina,Canada West,1180000,70,Continental
+3036,Mexico,Jalisco,Guadalajara,Mexico West,8340000,120,Subtropical
+3037,Mexico,Nuevo Le?n,Monterrey,Mexico North,5780000,140,Desert
+3038,Mexico,Baja California,Tijuana,Mexico West,3760000,45,Mediterranean
+3039,Mexico,Puebla,Puebla,Mexico Central,6580000,60,Subtropical
+3040,Mexico,Veracruz,Veracruz,Mexico Gulf,8600000,70,Tropical
+3041,UK,Scotland,Glasgow,EMEA North,5460000,180,Oceanic
+3042,UK,Wales,Cardiff,EMEA North,3130000,100,Oceanic
+3043,UK,Northern Ireland,Belfast,EMEA North,1890000,55,Oceanic
+3044,UK,England,Manchester,EMEA North,55980000,3100,Oceanic
+3045,UK,England,Birmingham,EMEA North,55980000,3100,Oceanic
+3046,Germany,North Rhine-Westphalia,D?sseldorf,EMEA Central,83200000,4200,Continental
+3047,Germany,Baden-W?rttemberg,Stuttgart,EMEA Central,83200000,4200,Continental
+3048,Germany,Lower Saxony,Hanover,EMEA Central,83200000,4200,Continental
+3049,Germany,Saxony,Dresden,EMEA Central,83200000,4200,Continental
+3050,Germany,Hamburg,Hamburg,EMEA Central,83200000,4200,Continental
+3051,France,?le-de-France,Paris,EMEA West,67390000,2900,Oceanic
+3052,France,Provence-Alpes-C?te d'Azur,Marseille,EMEA West,67390000,2900,Mediterranean
+3053,France,Auvergne-Rh?ne-Alpes,Lyon,EMEA West,67390000,2900,Continental
+3054,France,Occitanie,Toulouse,EMEA West,67390000,2900,Mediterranean
+3055,France,Nouvelle-Aquitaine,Bordeaux,EMEA West,67390000,2900,Oceanic
+3056,Spain,Madrid,Madrid,EMEA South,47420000,1400,Mediterranean
+3057,Spain,Catalonia,Barcelona,EMEA South,47420000,1400,Mediterranean
+3058,Spain,Andalusia,Seville,EMEA South,47420000,1400,Mediterranean
+3059,Spain,Valencia,Valencia,EMEA South,47420000,1400,Mediterranean
+3060,Spain,Basque Country,Bilbao,EMEA South,47420000,1400,Oceanic
+3061,Italy,Lazio,Rome,EMEA South,59550000,2100,Mediterranean
+3062,Italy,Lombardy,Milan,EMEA South,59550000,2100,Continental
+3063,Italy,Campania,Naples,EMEA South,59550000,2100,Mediterranean
+3064,Italy,Veneto,Venice,EMEA South,59550000,2100,Continental
+3065,Italy,Piedmont,Turin,EMEA South,59550000,2100,Continental
+3066,Netherlands,North Holland,Amsterdam,EMEA North,17530000,1000,Oceanic
+3067,Netherlands,South Holland,Rotterdam,EMEA North,17530000,1000,Oceanic
+3068,Belgium,Brussels-Capital,Brussels,EMEA North,11590000,600,Oceanic
+3069,Switzerland,Zurich,Zurich,EMEA Central,8700000,800,Continental
+3070,Switzerland,Geneva,Geneva,EMEA Central,8700000,800,Continental
+3071,Austria,Vienna,Vienna,EMEA Central,8955000,480,Continental
+3072,Austria,Tyrol,Innsbruck,EMEA Central,8955000,480,Alpine
+3073,Ireland,Leinster,Dublin,EMEA North,5033000,500,Oceanic
+3074,Denmark,Capital Region,Copenhagen,EMEA North,5830000,400,Oceanic
+3075,Sweden,Stockholm,Stockholm,EMEA North,10380000,600,Continental
+3076,Norway,Oslo,Oslo,EMEA North,5421000,450,Continental
+3077,Finland,Uusimaa,Helsinki,EMEA North,5536000,290,Continental
+3078,Poland,Masovian,Warsaw,EMEA East,37970000,670,Continental
+3079,Poland,Lesser Poland,Krakow,EMEA East,37970000,670,Continental
+3080,Poland,Silesian,Katowice,EMEA East,37970000,670,Continental
+3081,Czech Republic,Prague,Prague,EMEA East,10700000,280,Continental
+3082,Hungary,Central Hungary,Budapest,EMEA East,9760000,180,Continental
+3083,Romania,Bucharest,Bucharest,EMEA East,19120000,290,Continental
+3084,Greece,Attica,Athens,EMEA South,10720000,210,Mediterranean
+3085,Portugal,Lisbon,Lisbon,EMEA South,10230000,240,Mediterranean
+3086,Portugal,Porto,Porto,EMEA South,10230000,240,Mediterranean
+3087,Turkey,Istanbul,Istanbul,EMEA East,84700000,850,Mediterranean
+3088,Turkey,Ankara,Ankara,EMEA East,84700000,850,Continental
+3089,Russia,Moscow,Moscow,EMEA East,144100000,1800,Continental
+3090,Russia,Saint Petersburg,Saint Petersburg,EMEA East,144100000,1800,Continental
+3091,Ukraine,Kyiv,Kyiv,EMEA East,44130000,160,Continental
+3092,Saudi Arabia,Riyadh,Riyadh,Middle East,35300000,830,Desert
+3093,Saudi Arabia,Mecca,Jeddah,Middle East,35300000,830,Desert
+3094,UAE,Dubai,Dubai,Middle East,9770000,430,Desert
+3095,UAE,Abu Dhabi,Abu Dhabi,Middle East,9770000,430,Desert
+3096,Qatar,Doha,Doha,Middle East,2930000,220,Desert
+3097,Kuwait,Kuwait City,Kuwait City,Middle East,4270000,180,Desert
+3098,Egypt,Cairo,Cairo,Middle East,102300000,430,Desert
+3099,Egypt,Alexandria,Alexandria,Middle East,102300000,430,Mediterranean
+3100,South Africa,Gauteng,Johannesburg,Africa South,59310000,420,Subtropical
+3101,South Africa,Western Cape,Cape Town,Africa South,59310000,420,Mediterranean
+3102,South Africa,KwaZulu-Natal,Durban,Africa South,59310000,420,Subtropical
+3103,Nigeria,Lagos,Lagos,Africa West,206100000,450,Tropical
+3104,Nigeria,Abuja,Abuja,Africa West,206100000,450,Tropical
+3105,Kenya,Nairobi,Nairobi,Africa East,53770000,100,Subtropical
+3106,Kenya,Mombasa,Mombasa,Africa East,53770000,100,Tropical
+3107,Ethiopia,Addis Ababa,Addis Ababa,Africa East,114900000,110,Subtropical
+3108,Ghana,Accra,Accra,Africa West,31070000,75,Tropical
+3109,Tanzania,Dar es Salaam,Dar es Salaam,Africa East,59730000,65,Tropical
+3110,Ivory Coast,Abidjan,Abidjan,Africa West,26380000,70,Tropical
+3111,Morocco,Casablanca,Casablanca,Africa North,36910000,130,Mediterranean
+3112,Morocco,Rabat,Rabat,Africa North,36910000,130,Mediterranean
+3113,Algeria,Algiers,Algiers,Africa North,43850000,170,Mediterranean
+3114,Tunisia,Tunis,Tunis,Africa North,11820000,40,Mediterranean
+3115,Senegal,Dakar,Dakar,Africa West,16740000,25,Tropical
+3116,Angola,Luanda,Luanda,Africa South,32870000,105,Tropical
+3117,Uganda,Kampala,Kampala,Africa East,45740000,40,Subtropical
+3118,Rwanda,Kigali,Kigali,Africa East,12950000,11,Subtropical
+3119,Mozambique,Maputo,Maputo,Africa South,30370000,15,Tropical
+3120,Zambia,Lusaka,Lusaka,Africa South,18380000,26,Subtropical
+3121,China,Shanghai,Shanghai,APAC East,1402000000,17700,Subtropical
+3122,China,Beijing,Beijing,APAC East,1402000000,17700,Continental
+3123,China,Guangdong,Guangzhou,APAC East,1402000000,17700,Subtropical
+3124,China,Sichuan,Chengdu,APAC East,1402000000,17700,Subtropical
+3125,China,Zhejiang,Hangzhou,APAC East,1402000000,17700,Subtropical
+3126,China,Jiangsu,Nanjing,APAC East,1402000000,17700,Subtropical
+3127,China,Hubei,Wuhan,APAC East,1402000000,17700,Subtropical
+3128,China,Liaoning,Shenyang,APAC East,1402000000,17700,Continental
+3129,China,Shandong,Jinan,APAC East,1402000000,17700,Continental
+3130,China,Fujian,Xiamen,APAC East,1402000000,17700,Subtropical
+3131,Japan,Tokyo,Tokyo,APAC East,125800000,5000,Temperate
+3132,Japan,Osaka,Osaka,APAC East,125800000,5000,Temperate
+3133,Japan,Kyoto,Kyoto,APAC East,125800000,5000,Temperate
+3134,Japan,Hokkaido,Sapporo,APAC East,125800000,5000,Continental
+3135,Japan,Fukuoka,Fukuoka,APAC East,125800000,5000,Subtropical
+3136,South Korea,Seoul,Seoul,APAC East,51780000,1800,Continental
+3137,South Korea,Busan,Busan,APAC East,51780000,1800,Subtropical
+3138,South Korea,Incheon,Incheon,APAC East,51780000,1800,Continental
+3139,South Korea,Daegu,Daegu,APAC East,51780000,1800,Continental
+3140,South Korea,Gwangju,Gwangju,APAC East,51780000,1800,Subtropical
+3141,India,Maharashtra,Mumbai,APAC South,1380000000,3200,Tropical
+3142,India,Delhi,Delhi,APAC South,1380000000,3200,Subtropical
+3143,India,Karnataka,Bangalore,APAC South,1380000000,3200,Tropical
+3144,India,West Bengal,Kolkata,APAC South,1380000000,3200,Tropical
+3145,India,Tamil Nadu,Chennai,APAC South,1380000000,3200,Tropical
+3146,India,Gujarat,Ahmedabad,APAC South,1380000000,3200,Desert
+3147,India,Uttar Pradesh,Lucknow,APAC South,1380000000,3200,Subtropical
+3148,India,Rajasthan,Jaipur,APAC South,1380000000,3200,Desert
+3149,India,Punjab,Chandigarh,APAC South,1380000000,3200,Continental
+3150,India,Kerala,Thiruvananthapuram,APAC South,1380000000,3200,Tropical
+3151,Australia,New South Wales,Sydney,APAC South,25690000,1600,Subtropical
+3152,Australia,Victoria,Melbourne,APAC South,25690000,1600,Oceanic
+3153,Australia,Queensland,Brisbane,APAC South,25690000,1600,Subtropical
+3154,Australia,Western Australia,Perth,APAC South,25690000,1600,Mediterranean
+3155,Australia,South Australia,Adelaide,APAC South,25690000,1600,Mediterranean
+3156,Australia,Australian Capital Territory,Canberra,APAC South,25690000,1600,Continental
+3157,New Zealand,Auckland,Auckland,APAC South,5112000,250,Oceanic
+3158,New Zealand,Wellington,Wellington,APAC South,5112000,250,Oceanic
+3159,New Zealand,Canterbury,Christchurch,APAC South,5112000,250,Oceanic
+3160,Indonesia,Java,Jakarta,APAC Southeast,273500000,1200,Tropical
+3161,Indonesia,Java,Surabaya,APAC Southeast,273500000,1200,Tropical
+3162,Indonesia,Java,Bandung,APAC Southeast,273500000,1200,Tropical
+3163,Indonesia,Bali,Denpasar,APAC Southeast,273500000,1200,Tropical
+3164,Philippines,Metro Manila,Manila,APAC Southeast,109600000,400,Tropical
+3165,Philippines,Cebu City,Cebu,APAC Southeast,109600000,400,Tropical
+3166,Philippines,Davao City,Davao,APAC Southeast,109600000,400,Tropical
+3167,Thailand,Bangkok,Bangkok,APAC Southeast,69950000,540,Tropical
+3168,Thailand,Chiang Mai,Chiang Mai,APAC Southeast,69950000,540,Tropical
+3169,Thailand,Phuket,Phuket,APAC Southeast,69950000,540,Tropical
+3170,Vietnam,Ho Chi Minh City,Ho Chi Minh City,APAC Southeast,97340000,340,Tropical
+3171,Vietnam,Hanoi,Hanoi,APAC Southeast,97340000,340,Subtropical
+3172,Vietnam,Da Nang,Da Nang,APAC Southeast,97340000,340,Tropical
+3173,Malaysia,Kuala Lumpur,Kuala Lumpur,APAC Southeast,32780000,400,Tropical
+3174,Malaysia,Penang,George Town,APAC Southeast,32780000,400,Tropical
+3175,Malaysia,Johor,Johor Bahru,APAC Southeast,32780000,400,Tropical
+3176,Singapore,Singapore,Singapore,APAC Southeast,5850000,390,Tropical
+3177,Taiwan,Taipei,Taipei,APAC East,23570000,790,Subtropical
+3178,Taiwan,Kaohsiung,Kaohsiung,APAC East,23570000,790,Subtropical
+3179,Hong Kong,Hong Kong,Hong Kong,APAC East,7497000,370,Subtropical
+3180,Macau,Macau,Macau,APAC East,649000,55,Subtropical
+3181,Brazil,S?o Paulo,S?o Paulo,Latin America,212600000,1900,Tropical
+3182,Brazil,Rio de Janeiro,Rio de Janeiro,Latin America,212600000,1900,Tropical
+3183,Brazil,Minas Gerais,Belo Horizonte,Latin America,212600000,1900,Tropical
+3184,Brazil,Bahia,Salvador,Latin America,212600000,1900,Tropical
+3185,Brazil,Paran?,Curitiba,Latin America,212600000,1900,Subtropical
+3186,Brazil,Distrito Federal,Bras?lia,Latin America,212600000,1900,Tropical
+3187,Brazil,Pernambuco,Recife,Latin America,212600000,1900,Tropical
+3188,Brazil,Cear?,Fortaleza,Latin America,212600000,1900,Tropical
+3189,Brazil,Amazonas,Manaus,Latin America,212600000,1900,Equatorial
+3190,Argentina,Buenos Aires,Buenos Aires,Latin America,45196000,640,Subtropical
+3191,Argentina,C?rdoba,C?rdoba,Latin America,45196000,640,Subtropical
+3192,Argentina,Mendoza,Mendoza,Latin America,45196000,640,Desert
+3193,Chile,Santiago,Santiago,Latin America,19116000,300,Mediterranean
+3194,Chile,Valpara?so,Valpara?so,Latin America,19116000,300,Mediterranean
+3195,Colombia,Bogot?,Bogot?,Latin America,50880000,320,Subtropical
+3196,Colombia,Antioquia,Medell?n,Latin America,50880000,320,Subtropical
+3197,Colombia,Atl?ntico,Barranquilla,Latin America,50880000,320,Tropical
+3198,Colombia,Valle del Cauca,Cali,Latin America,50880000,320,Tropical
+3199,Peru,Lima,Lima,Latin America,32972000,230,Desert
+3200,Peru,Arequipa,Arequipa,Latin America,32972000,230,Desert
+3201,Uruguay,Montevideo,Montevideo,Latin America,3474000,60,Subtropical
+3202,Paraguay,Asunci?n,Asunci?n,Latin America,7133000,40,Subtropical
+3203,Bolivia,La Paz,La Paz,Latin America,11673000,40,Alpine
+3204,Bolivia,Santa Cruz,Santa Cruz,Latin America,11673000,40,Tropical
+3205,Ecuador,Quito,Quito,Latin America,17643000,110,Subtropical
+3206,Ecuador,Guayas,Guayaquil,Latin America,17643000,110,Tropical
+3207,Venezuela,Caracas,Caracas,Latin America,28436000,70,Tropical
+3208,Venezuela,Maracaibo,Maracaibo,Latin America,28436000,70,Tropical
+3209,Costa Rica,San Jos?,San Jos?,Latin America,5094000,65,Tropical
+3210,Panama,Panama City,Panama City,Latin America,4315000,70,Tropical
+3211,Dominican Republic,Santo Domingo,Santo Domingo,Latin America,10848000,90,Tropical
+3212,Puerto Rico,San Juan,San Juan,Latin America,3194000,105,Tropical
+3213,Jamaica,Kingston,Kingston,Latin America,2961000,16,Tropical
+3214,Cuba,Havana,Havana,Latin America,11327000,100,Tropical
+3215,Bahamas,Nassau,Nassau,Latin America,393000,13,Tropical
+3216,Haiti,Port-au-Prince,Port-au-Prince,Latin America,11403000,20,Tropical
+3217,Guatemala,Guatemala City,Guatemala City,Latin America,17916000,86,Subtropical
+3218,Honduras,Tegucigalpa,Tegucigalpa,Latin America,9905000,28,Tropical
+3219,El Salvador,San Salvador,San Salvador,Latin America,6486000,27,Tropical
+3220,Nicaragua,Managua,Managua,Latin America,6625000,14,Tropical
+3221,Israel,Jerusalem,Jerusalem,Middle East,8656000,480,Mediterranean
+3222,Israel,Tel Aviv,Tel Aviv,Middle East,8656000,480,Mediterranean
+3223,Jordan,Amman,Amman,Middle East,10203000,45,Desert
+3224,Lebanon,Beirut,Beirut,Middle East,6825000,55,Mediterranean
+3225,Iraq,Baghdad,Baghdad,Middle East,40222000,250,Desert
+3226,Iran,Tehran,Tehran,Middle East,83990000,460,Desert
+3227,Pakistan,Punjab,Lahore,APAC South,220900000,340,Subtropical
+3228,Pakistan,Sindh,Karachi,APAC South,220900000,340,Desert
+3229,Pakistan,Islamabad,Islamabad,APAC South,220900000,340,Subtropical
+3230,Bangladesh,Dhaka,Dhaka,APAC South,164700000,350,Tropical
+3231,Bangladesh,Chittagong,Chittagong,APAC South,164700000,350,Tropical
+3232,Sri Lanka,Colombo,Colombo,APAC South,21410000,94,Tropical
+3233,Nepal,Kathmandu,Kathmandu,APAC South,29140000,34,Subtropical
+3234,Afghanistan,Kabul,Kabul,APAC South,38930000,21,Continental
+3235,Myanmar,Yangon,Yangon,APAC Southeast,54410000,76,Tropical
+3236,Myanmar,Mandalay,Mandalay,APAC Southeast,54410000,76,Tropical
+3237,Laos,Vientiane,Vientiane,APAC Southeast,7276000,19,Tropical
+3238,Cambodia,Phnom Penh,Phnom Penh,APAC Southeast,16720000,27,Tropical
+3239,Brunei,Bandar Seri Begawan,Bandar Seri Begawan,APAC Southeast,437000,14,Tropical
+3240,East Timor,Dili,Dili,APAC Southeast,1318000,3,Tropical
+3241,Papua New Guinea,Port Moresby,Port Moresby,APAC South,8947000,25,Tropical
+3242,Fiji,Suva,Suva,APAC South,896000,5,Tropical
+3243,Samoa,Apia,Apia,APAC South,198000,1,Tropical
+3244,Vanuatu,Port Vila,Port Vila,APAC South,307000,1,Tropical
+3245,Solomon Islands,Honiara,Honiara,APAC South,686000,1,Tropical
+3246,Kazakhstan,Nur-Sultan,Nur-Sultan,EMEA East,18780000,180,Continental
+3247,Kazakhstan,Almaty,Almaty,EMEA East,18780000,180,Continental
+3248,Uzbekistan,Tashkent,Tashkent,EMEA East,33470000,60,Continental
+3249,Turkmenistan,Ashgabat,Ashgabat,EMEA East,6031000,45,Desert
+3250,Kyrgyzstan,Bishkek,Bishkek,EMEA East,6524000,8,Continental
+3251,Tajikistan,Dushanbe,Dushanbe,EMEA East,9538000,8,Continental
+3252,Mongolia,Ulaanbaatar,Ulaanbaatar,APAC East,3278000,14,Continental
+3253,North Korea,Pyongyang,Pyongyang,APAC East,25780000,28,Continental
+3254,Maldives,Mal?,Mal?,APAC South,540000,6,Tropical
+3255,Bhutan,Thimphu,Thimphu,APAC South,771000,3,Subtropical
+3256,Niger,Niamey,Niamey,Africa West,24210000,13,Desert
+3257,Mali,Bamako,Bamako,Africa West,20250000,17,Desert
+3258,Burkina Faso,Ouagadougou,Ouagadougou,Africa West,20900000,16,Tropical
+3259,Benin,Porto-Novo,Porto-Novo,Africa West,12120000,15,Tropical
+3260,Togo,Lom?,Lom?,Africa West,8279000,7,Tropical
+3261,Guinea,Conakry,Conakry,Africa West,13130000,11,Tropical
+3262,Sierra Leone,Freetown,Freetown,Africa West,7977000,4,Tropical
+3263,Liberia,Monrovia,Monrovia,Africa West,5058000,3,Tropical
+3264,Madagascar,Antananarivo,Antananarivo,Africa East,27690000,14,Tropical
+3265,Malawi,Lilongwe,Lilongwe,Africa East,19130000,11,Subtropical
+3266,Zimbabwe,Harare,Harare,Africa South,14863000,22,Subtropical
+3267,Zimbabwe,Bulawayo,Bulawayo,Africa South,14863000,22,Subtropical
+3268,Botswana,Gaborone,Gaborone,Africa South,2352000,18,Desert
+3269,Namibia,Windhoek,Windhoek,Africa South,2541000,14,Desert
+3270,Lesotho,Maseru,Maseru,Africa South,2142000,3,Subtropical
+3271,Eswatini,Mbabane,Mbabane,Africa South,1160000,5,Subtropical
+3272,Mauritius,Port Louis,Port Louis,Africa South,1272000,14,Tropical
+3273,Seychelles,Victoria,Victoria,Africa South,98300,2,Tropical
+3274,Comoros,Moroni,Moroni,Africa East,869000,1,Tropical
+3275,Cabo Verde,Praia,Praia,Africa West,555000,2,Tropical
+3276,Guinea-Bissau,Bissau,Bissau,Africa West,1968000,1,Tropical
+3277,Equatorial Guinea,Malabo,Malabo,Africa Central,1403000,12,Tropical
+3278,Gabon,Libreville,Libreville,Africa Central,2226000,17,Tropical
+3279,Republic of the Congo,Brazzaville,Brazzaville,Africa Central,5518000,11,Tropical
+3280,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa Central,89561000,49,Tropical
+3281,Central African Republic,Bangui,Bangui,Africa Central,4829000,2,Tropical
+3282,Chad,N'Djamena,N'Djamena,Africa Central,16430000,11,Desert
+3283,Sudan,Khartoum,Khartoum,Africa Central,43850000,34,Desert
+3284,South Sudan,Juba,Juba,Africa Central,11190000,3,Tropical
+3285,Eritrea,Asmara,Asmara,Africa East,3546000,2,Desert
+3286,Djibouti,Djibouti City,Djibouti City,Africa East,988000,3,Desert
+3287,Somalia,Mogadishu,Mogadishu,Africa East,15890000,5,Desert
+3288,Burundi,Bujumbura,Bujumbura,Africa East,11891000,3,Subtropical
+3289,Iceland,Reykjavik,Reykjavik,EMEA North,341000,27,Subarctic
+3290,Greenland,Nuuk,Nuuk,EMEA North,56000,3,Arctic
+3291,Faroese Islands,T?rshavn,T?rshavn,EMEA North,49000,3,Subarctic
+3292,Estonia,Tallinn,Tallinn,EMEA East,1325000,35,Continental
+3293,Latvia,Riga,Riga,EMEA East,1886000,38,Continental
+3294,Lithuania,Vilnius,Vilnius,EMEA East,2722000,59,Continental
+3295,Belarus,Minsk,Minsk,EMEA East,9449000,63,Continental
+3296,Moldova,Chisinau,Chisinau,EMEA East,4034000,12,Continental
+3297,Serbia,Belgrade,Belgrade,EMEA East,8737000,51,Continental
+3298,Croatia,Zagreb,Zagreb,EMEA East,4105000,68,Continental
+3299,Bosnia and Herzegovina,Sarajevo,Sarajevo,EMEA East,3281000,21,Continental
+3300,Albania,Tirana,Tirana,EMEA East,2878000,15,Mediterranean
