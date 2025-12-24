@@ -1,0 +1,135 @@
+10-PAGE DASHBOARD STRUCTURE
+PAGE 1: EXECUTIVE OVERVIEW
+
+
+KPIs (6 Cards):
+Total Revenue (sales.Fact_Sales[Revenue])
+Total Profit (sales.Fact_Sales[Profit])
+Marketing ROI (marketing.Fact_Marketing[Spend]/[Revenue])
+Inventory Turnover (supply.Fact_Inventory[Stock_Value])
+Employee Satisfaction (hr.Fact_HR[Employee_Satisfaction_Score])
+On-Time Delivery (supply.Fact_Logistics[OnTime_Delivery_Rate])
+
+
+Charts (4):
+Revenue Trend - Line Chart (sales.Dim_Date[Month], sales.Fact_Sales[Revenue])
+Top 5 Products - Bar Chart (sales.Dim_Product[ProductName], [Revenue])
+Regional Performance - Map (sales.Dim_Region[Country], [Profit])
+Campaign ROI - Scatter (marketing.Dim_Campaign[CampaignName], [Spend], [Revenue])
+
+
+
+PAGE 2: SALES ANALYTICS
+Charts (6):
+
+Sales by Month - Line & Column (sales.Dim_Date[Month], [Revenue], [Units_Sold])
+Top 10 Customers - Horizontal Bar (sales.Dim_Customer[RetailerName], [Revenue])
+Channel Performance - Donut (sales.Dim_Channel[ChannelName], [Revenue])
+Product Category Breakdown - Treemap (sales.Dim_Product[Category], [Revenue])
+Regional Sales Matrix - Table (sales.Dim_Region[Region], [Revenue], [Profit_Margin])
+
+
+
+
+PAGE 3: SUPPLY CHAIN OPERATIONS
+
+Sub-section A: Inventory
+Stock Levels Gauge - Gauge (supply.Fact_Inventory[Stock_Utilization])
+Days of Supply by Product - Heatmap (sales.Dim_Product[ProductName], [DaysOfSupply])
+Stockout Risk - Card (supply.Fact_Inventory[Stockout_Rate])
+
+
+Sub-section B: Production
+4. Plant Efficiency - Bar Chart (supply.Dim_Plant[PlantName], [OEE])
+5. Defect Rate Trend - Line (sales.Dim_Date[Date], supply.Fact_Production[Quality_Defect_Rate])
+6. Cost Analysis - Waterfall (supply.Fact_Production[Material_Cost], [Labor_Cost], [Energy_Cost])
+
+
+Sub-section C: Logistics
+7. On-Time Delivery - Line Chart (sales.Dim_Date[Week], supply.Fact_Logistics[Delivery_Time_Accuracy])
+8. Transport Cost by Mode - Pie (supply.Fact_Logistics[Transport_Mode], [Transport_Cost])
+9. Lead Time Analysis - Box & Whisker (supply.Fact_Logistics[Lead_Time_Days])
+
+
+PAGE 4: MARKETING EFFECTIVENESS
+Charts (6):
+
+Campaign Performance - Table (marketing.Dim_Campaign[CampaignName], [Spend], [ROI], [Conversions])
+ROI by Campaign Type - Bar (marketing.Dim_Campaign[CampaignType], [ROI])
+Digital Metrics - Multi-Row Card ([CTR], [CPC], [CPM], [CPA])
+Engagement Trend - Line (sales.Dim_Date[Date], marketing.Fact_Marketing[Engagement_Rate])
+Conversion Funnel - Funnel ([Impressions], [Clicks], [Conversions])
+Brand Sentiment - Gauge (marketing.Fact_Marketing[Sentiment_Score])
+
+
+
+PAGE 5: FINANCIAL PERFORMANCE
+Charts (6):
+
+Income Statement - Waterfall ([Revenue], [COGS], [Operating_Expenses], [Net_Income])
+Profit Margins - Line Chart (sales.Dim_Date[Quarter], [Gross_Margin], [Operating_Margin], [Net_Margin])
+Financial Ratios - Multi-Gauge ([Current_Ratio], [Debt_to_Equity], [ROI])
+Cash Flow - Area Chart (sales.Dim_Date[Month], [Cash_Flow])
+Expense Breakdown - Pie ([COGS], [Operating_Expenses], [Taxes])
+Financial Health Scorecard - Matrix ([Profitability_Health], [Liquidity_Health])
+
+
+
+
+PAGE 6: RETAIL EXECUTION
+Charts (6):
+
+Store Ranking - Bar Chart (retail.Dim_Store[StoreName], [Store_Audit_Score])
+Planogram Compliance - Heatmap (retail.Dim_Store[StoreName], retail.Fact_Retail[Planogram_Compliance_Pct])
+OOS Analysis - Line Chart (sales.Dim_Date[Date], retail.Fact_Retail[OOS_Rate_Pct])
+Price Compliance - Card (retail.Fact_Retail[Price_Compliance])
+Shelf Share - Stacked Bar (sales.Dim_Product[Brand], retail.Fact_Retail[Shelf_Share_Pct])
+Store Performance Matrix - Table ([StoreName], [SKU_Availability_Pct], [Cooler_Functional_Pct])
+
+
+
+PAGE 7: HUMAN RESOURCES
+Charts (6):
+
+Headcount by Department - Treemap (hr.Dim_Department[DepartmentName], [Employee_Count])
+Turnover Rate - Line Chart (sales.Dim_Date[Month], [Turnover_Rate])
+Performance Distribution - Histogram (hr.Fact_HR[Performance_Rating])------------------
+Training Hours - Bar Chart (hr.Dim_Department[DepartmentName], [Training_Hours])
+Salary Analysis - Box & Whisker (hr.Dim_JobRole[JobTitle], [Salary])
+Employee Satisfaction - Gauge ([Avg_Satisfaction_Score])
+
+
+
+
+
+PAGE 8: CUSTOMER ANALYTICS
+Charts (5):
+
+Customer Segmentation - Pie (sales.Dim_Customer[CustomerSegment])
+Customer Lifetime Value - Bar (sales.Dim_Customer[RetailerName], [Revenue])
+Purchase Frequency - Histogram ([Orders_per_Customer])   ------------------------------
+Customer Retention - Line (sales.Dim_Date[Month], [Retention_Rate])
+Top/Bottom Customers - Table ([RetailerName], [Revenue], [Profit_Margin])
+
+--------------------------------------------------------------------------------
+
+
+PAGE 9: PRODUCT PORTFOLIO
+Charts (5):
+
+Product Profitability - Scatter (sales.Dim_Product[ProductName], [Revenue], [Profit_Margin])
+Brand Performance - Bar (sales.Dim_Product[Brand], [Market_Share])
+Product Lifecycle - Matrix ([ProductName], [ProductLifeCycle], [Revenue_Growth])
+Price Elasticity - Line ([Price], [Units_Sold])
+Product Mix - Donut (sales.Dim_Product[Category], [Revenue_Contribution])
+
+
+
+PAGE 10: OPERATIONAL EFFICIENCY
+Charts (6):
+Overall Equipment Effectiveness - Gauge ([OEE_Overall])
+Downtime Analysis - Pareto (supply.Dim_Plant[PlantName], [Downtime_Hours])
+Energy Consumption - Line (sales.Dim_Date[Month], [Energy_Cost])
+Quality Control - Control Chart ([Quality_Defect_Rate])
+Capacity Utilization - Area (supply.Dim_Plant[PlantName], [Capacity_Utilization_Rate])
+Efficiency Scorecard - Table ([Metric], [Actual], [Target], [Variance])
